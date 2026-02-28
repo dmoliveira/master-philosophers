@@ -3,6 +3,7 @@
 [![Docs Quality Checks](https://github.com/dmoliveira/master-philosophers/actions/workflows/docs-links.yml/badge.svg)](https://github.com/dmoliveira/master-philosophers/actions/workflows/docs-links.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/dmoliveira/master-philosophers)](https://github.com/dmoliveira/master-philosophers/commits/main)
+[![Open Issues](https://img.shields.io/github/issues/dmoliveira/master-philosophers)](https://github.com/dmoliveira/master-philosophers/issues)
 [![Stars](https://img.shields.io/github/stars/dmoliveira/master-philosophers?style=social)](https://github.com/dmoliveira/master-philosophers/stargazers)
 [![Study Tracks](https://img.shields.io/badge/Study%20Tracks-6%20%26%2012%20months-1f6feb)](docs/plan/study-plans.md)
 
