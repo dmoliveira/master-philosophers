@@ -25,15 +25,45 @@ These are practical, study-first review notes for choosing editions and setting 
 - Difficulty: Medium (conceptual, not technical).
 - Best for: Ethics of role, relationship, and self-cultivation.
 
+### Epicurus - Principal Doctrines and Letter to Menoeceus
+- Why read: Minimal but high-impact statements on fear, desire, and calm.
+- Difficulty: Low.
+- Best for: Immediate practical ethics routines.
+
+### Epictetus - Enchiridion / Discourses
+- Why read: Direct training manual for agency and judgment.
+- Difficulty: Low to medium.
+- Best for: Habitual reframing and self-discipline.
+
 ### Marcus Aurelius - Meditations
 - Why read: Daily-practice philosophy in compact reflections.
 - Difficulty: Low to medium.
 - Best for: Habit building and resilience practice.
 
+### Plotinus - Enneads
+- Why read: Ambitious metaphysical architecture with spiritual depth.
+- Difficulty: Very high.
+- Best for: Advanced metaphysics and contemplative traditions.
+
 ### Augustine - Confessions
 - Why read: Powerful treatment of memory, will, desire, and time.
 - Difficulty: Medium.
 - Best for: Philosophy of self and inner life.
+
+### Avicenna - Book of Healing (selections)
+- Why read: Essential bridge between Aristotelian and later scholastic metaphysics.
+- Difficulty: High.
+- Best for: Essence/existence and necessity analysis.
+
+### Maimonides - Guide for the Perplexed
+- Why read: Rich model of religion/philosophy reconciliation.
+- Difficulty: High.
+- Best for: Interpretation theory and theological language precision.
+
+### Aquinas - Summa Theologiae (selected questions)
+- Why read: Highly structured argument method with objections and replies.
+- Difficulty: High.
+- Best for: Formal argument architecture and natural law reasoning.
 
 ### Descartes - Meditations
 - Why read: Modern epistemology baseline; still clear and sharp.
@@ -94,6 +124,11 @@ These are practical, study-first review notes for choosing editions and setting 
 - Why read: High-energy critique of inherited morality.
 - Difficulty: Medium.
 - Best for: Value genealogy and modern critique work.
+
+### Frege - Begriffsschrift / On Sense and Reference
+- Why read: Technical birth point for modern logic and semantics.
+- Difficulty: High (especially if symbolic logic is new).
+- Best for: Analytic precision and language structure.
 
 ### Russell - The Problems of Philosophy
 - Why read: Clean, accessible analytic method introduction.

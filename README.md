@@ -17,6 +17,7 @@ A private-first philosophy knowledge repo with practical reading order, key thin
 - `docs/reviews/core-book-reviews.md`: short reading notes and practical review prompts.
 - `docs/plan/study-plans.md`: structured 6-month and 12-month plans.
 - `docs/templates/weekly-study-checklist.md`: reusable weekly execution template.
+- `docs/specs/edition-selection-spec.md`: rules for choosing editions and upgrades.
 - `Influential_Philosophers_Reading_Plan.md`: long-form narrative reading guide.
 - `CONTRIBUTING.md`: contribution and curation rules.
 
