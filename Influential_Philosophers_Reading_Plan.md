@@ -25,4 +25,5 @@ Use the linked docs below as the single source of truth.
 ## Notes
 
 - Keep additions and updates in the modular docs under `docs/`.
-- If this flow changes, update `docs/plan/study-plans.md` first, then mirror the order here.
+- If this flow changes, update `docs/plan/study-plans.md` first.
+- Then mirror the order here.
