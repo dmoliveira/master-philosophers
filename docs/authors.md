@@ -1,9 +1,35 @@
-# Authors and Intellectual Profiles
+# Authors and Intellectual Profiles 🏛️
 
 This page is a fast-reference map for who each thinker was, where they came
 from, what they changed, and where their influence is strongest.
+Use it as a quick guide, then jump into the books for deeper study. 🔍
 
-## Classical Foundations
+## How to Read Profiles 🧭
+
+- `Life and place`: approximate birth/death years plus origin and main context.
+- `Main influence areas`: fields where the thinker had major historical impact.
+- `Orientation/tradition`: broad intellectual or ideological placement.
+- `Key works`: practical starting points for primary-source reading.
+- `Key facts`: short biographical context.
+- `What changed`: the core shift introduced by the thinker.
+- `Historical note` (when present): high-impact consequences and controversy.
+
+## Tradition Index (Quick Navigation) 🗺️
+
+- Classical Greek philosophy: [Plato](#plato), [Aristotle](#aristotle)
+- Confucian thought: [Confucius](#confucius)
+- Hellenistic schools: [Epicurus](#epicurus), [Epictetus](#epictetus), [Marcus Aurelius](#marcus-aurelius)
+- Neoplatonism: [Plotinus](#plotinus)
+- Christian philosophy/theology: [Augustine of Hippo](#augustine-of-hippo), [Thomas Aquinas](#thomas-aquinas), [Soren Kierkegaard](#soren-kierkegaard)
+- Islamic and Jewish rationalism: [Avicenna (Ibn Sina)](#avicenna-ibn-sina), [Maimonides](#maimonides)
+- Rationalism and empiricism: [Rene Descartes](#rene-descartes), [Baruch Spinoza](#baruch-spinoza), [John Locke](#john-locke), [David Hume](#david-hume)
+- Social contract and liberal traditions: [Thomas Hobbes](#thomas-hobbes), [Jean-Jacques Rousseau](#jean-jacques-rousseau), [John Stuart Mill](#john-stuart-mill)
+- Idealism and historical systems: [Immanuel Kant](#immanuel-kant), [G. W. F. Hegel](#g-w-f-hegel)
+- Communism and historical materialism: [Karl Marx](#karl-marx)
+- Genealogical religion/morality critique: [Friedrich Nietzsche](#friedrich-nietzsche)
+- Analytic and logic traditions: [Gottlob Frege](#gottlob-frege), [Bertrand Russell](#bertrand-russell), [Ludwig Wittgenstein](#ludwig-wittgenstein)
+
+## Classical Foundations 🏺
 
 ### [Plato](https://en.wikipedia.org/wiki/Plato)
 - Life and place: c. 428/427 BCE - 348/347 BCE; Athens (Greek world).
@@ -66,7 +92,7 @@ from, what they changed, and where their influence is strongest.
 - What changed: Developed hierarchical metaphysics from The One to intellect
   and soul.
 
-## Faith, Reason, and Scholastic Synthesis
+## Faith, Reason, and Scholastic Synthesis ⛪
 
 ### [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
 - Life and place: 354 CE - 430 CE; Tagaste (North Africa), bishop in Hippo.
@@ -101,7 +127,7 @@ from, what they changed, and where their influence is strongest.
 - Key facts: Dominican scholar and major system-builder.
 - What changed: Integrated Aristotelian philosophy into Christian theology.
 
-## State, Knowledge, and Modern Foundations
+## State, Knowledge, and Modern Foundations 🏛️
 
 ### [Rene Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 - Life and place: 1596 - 1650; La Haye en Touraine (France).
@@ -144,7 +170,7 @@ from, what they changed, and where their influence is strongest.
 - Key facts: Scottish Enlightenment skeptic and historian.
 - What changed: Challenged causation certainty and rational overreach.
 
-## Revolution, Ideology, and Social Order
+## Revolution, Ideology, and Social Order 🔥
 
 ### [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau)
 - Life and place: 1712 - 1778; Geneva.
@@ -196,7 +222,7 @@ from, what they changed, and where their influence is strongest.
 - Historical note: His ideas heavily influenced labor movements and communist
   states, with major global political consequences and deep controversy.
 
-## Critique, Language, and Modern Method
+## Critique, Language, and Modern Method 🧠
 
 ### [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
 - Life and place: 1844 - 1900; Rocken (Prussia).
@@ -234,7 +260,7 @@ from, what they changed, and where their influence is strongest.
 - Key facts: Thinker with two major methodological phases.
 - What changed: Shifted from logical form to language-in-use.
 
-## Next References
+## Next References 🔗
 
 - Reading and buying list: `docs/books.md`
 - Reading notes and mini reviews: `docs/reviews/core-book-reviews.md`
