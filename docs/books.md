@@ -15,29 +15,31 @@ Price goal: prioritize AU stores first, then imported options only when total co
 - USD conversion used for quick compare: 1 USD ~= 1.58 AUD
 - Important: prices and stock move; re-check before purchase.
 
-## AU Priority Picks (Verified)
+## AU Priority Picks (Verified Subset)
+
+This table is a curated subset of high-availability picks, not the full author list.
 
 | Thinker | Book | AU Link | AUD | Stock Note | Review |
 |---|---|---|---:|---|---|
-| Plato | The Republic (Collins Classics) | [QBD](https://www.qbd.com.au/collins-classics-republic/plato/9780008480080/) | 9.99 | Add to Cart | [Note](reviews/core-book-reviews.md#plato---republic) |
-| Aristotle | The Nicomachean Ethics (Penguin Classics) | [QBD](https://www.qbd.com.au/penguin-classics-the-nicomachean-ethics/aristotle/9780140449495/) | 17.99 | Add to Cart | [Note](reviews/core-book-reviews.md#aristotle---nicomachean-ethics) |
-| Confucius | The Analects (Collins Classics) | [QBD](https://www.qbd.com.au/collins-classics-the-analects/confucius-james-legge/9780008663919/) | 9.99 | Add to Cart | [Note](reviews/core-book-reviews.md#confucius---analects) |
-| Marcus Aurelius | Meditations (standard edition) | [QBD](https://www.qbd.com.au/meditations/marcus-aurelius/9781800319721/) | 22.99 | Add to Cart | [Note](reviews/core-book-reviews.md#marcus-aurelius---meditations) |
+| Plato | The Republic (Collins Classics) | [QBD](https://www.qbd.com.au/collins-classics-republic/plato/9780008480080/) | 9.99 | Add to Cart | [Note](reviews/core-book-reviews.md#plato-republic) |
+| Aristotle | The Nicomachean Ethics (Penguin Classics) | [QBD](https://www.qbd.com.au/penguin-classics-the-nicomachean-ethics/aristotle/9780140449495/) | 17.99 | Add to Cart | [Note](reviews/core-book-reviews.md#aristotle-nicomachean-ethics) |
+| Confucius | The Analects (Collins Classics) | [QBD](https://www.qbd.com.au/collins-classics-the-analects/confucius-james-legge/9780008663919/) | 9.99 | Add to Cart | [Note](reviews/core-book-reviews.md#confucius-analects) |
+| Marcus Aurelius | Meditations (standard edition) | [QBD](https://www.qbd.com.au/meditations/marcus-aurelius/9781800319721/) | 22.99 | Add to Cart | [Note](reviews/core-book-reviews.md#marcus-aurelius-meditations) |
 | Plotinus | The Enneads (Penguin Classics) | [QBD](https://www.qbd.com.au/penguin-classics-the-enneads/plotinus/9780140445206/) | 32.99 | Add to Cart | [Note](reviews/core-book-reviews.md) |
-| Augustine | Confessions (Collins Classics) | [QBD](https://www.qbd.com.au/collins-classics-the-confessions-of-saint-augustine/saint-augustine/9780008480035/) | 9.99 | Add to Cart | [Note](reviews/core-book-reviews.md#augustine---confessions) |
-| Descartes | Discourse on Method and Meditations | [QBD](https://www.qbd.com.au/discourse-on-method-and-meditations-on-first-philosophy/ren-descartes/9780872204201/) | 10.95 | Add to Cart | [Note](reviews/core-book-reviews.md#descartes---meditations) |
-| Hobbes | Leviathan (Penguin Classics) | [QBD](https://www.qbd.com.au/penguin-classics-leviathan/thomas-hobbes/9780141395098/) | 29.99 | Add to Cart | [Note](reviews/core-book-reviews.md#hobbes---leviathan) |
-| Spinoza | Ethics | [QBD](https://www.qbd.com.au/ethics/spinoza-benedict/9781840221190/) | 19.99 | Add to Cart | [Note](reviews/core-book-reviews.md#spinoza---ethics) |
-| Locke | Essay Concerning Human Understanding | [QBD](https://www.qbd.com.au/an-essay-concerning-human-understanding/john-locke/9781840227321/) | 19.99 | Add to Cart | [Note](reviews/core-book-reviews.md#locke---essay-concerning-human-understanding) |
-| Hume | An Enquiry concerning Human Understanding | [QBD](https://www.qbd.com.au/an-enquiry-concerning-human-understanding/david-hume/9780199549900/) | 32.99 | Add to Cart | [Note](reviews/core-book-reviews.md#hume---enquiry-concerning-human-understanding) |
-| Rousseau | The Social Contract (Penguin Classics) | [QBD](https://www.qbd.com.au/penguin-classics-social-contract/jean-jacques-rousseau/9780140442014/) | 26.99 | Add to Cart | [Note](reviews/core-book-reviews.md#rousseau---social-contract) |
-| Kant | Groundwork for the Metaphysics of Morals | [QBD](https://www.qbd.com.au/groundwork-for-the-metaphysics-of-morals/immanuel-kant/9780198786191/) | 34.99 | Add to Cart | [Note](reviews/core-book-reviews.md#kant---groundwork-of-the-metaphysics-of-morals) |
-| Hegel | Phenomenology of Spirit | [QBD](https://www.qbd.com.au/phenomenology-of-spirit/georg-wilhelm-friedrich-hegel/9780198245971/) | 56.99 | Add to Cart | [Note](reviews/core-book-reviews.md#hegel---phenomenology-of-spirit) |
-| Kierkegaard | Fear and Trembling (Penguin Classics) | [QBD](https://www.qbd.com.au/penguin-classics-fear-and-trembling/soren-kierkegaard/9780140444490/) | 26.99 | Add to Cart | [Note](reviews/core-book-reviews.md#kierkegaard---fear-and-trembling) |
-| Marx | The Communist Manifesto (Penguin Classics) | [QBD](https://www.qbd.com.au/penguin-classics-the-communist-manifesto/karl-marx-friedrich-engels/9780140447576/) | 14.99 | Add to Cart | [Note](reviews/core-book-reviews.md#marx---communist-manifesto) |
-| Nietzsche | Beyond Good and Evil | [QBD](https://www.qbd.com.au/beyond-good-and-evil/friedrich-wilhelm-nietzsche-helen-zimmern/9780486298689/) | 12.99 | Add to Cart | [Note](reviews/core-book-reviews.md#nietzsche---beyond-good-and-evil) |
-| Russell | The Problems of Philosophy | [QBD](https://www.qbd.com.au/the-problems-of-philosophy/bertrand-russell/9780192854230/) | 31.99 | Add to Cart | [Note](reviews/core-book-reviews.md#russell---the-problems-of-philosophy) |
-| Wittgenstein | Philosophical Investigations (4th Ed) | [QBD](https://www.qbd.com.au/philosophical-investigations-4th-ed/ludwig-wittgenstein/9781405159296/) | 53.95 | Add to Cart | [Note](reviews/core-book-reviews.md#wittgenstein---philosophical-investigations) |
+| Augustine | Confessions (Collins Classics) | [QBD](https://www.qbd.com.au/collins-classics-the-confessions-of-saint-augustine/saint-augustine/9780008480035/) | 9.99 | Add to Cart | [Note](reviews/core-book-reviews.md#augustine-confessions) |
+| Descartes | Discourse on Method and Meditations | [QBD](https://www.qbd.com.au/discourse-on-method-and-meditations-on-first-philosophy/ren-descartes/9780872204201/) | 10.95 | Add to Cart | [Note](reviews/core-book-reviews.md#descartes-meditations) |
+| Hobbes | Leviathan (Penguin Classics) | [QBD](https://www.qbd.com.au/penguin-classics-leviathan/thomas-hobbes/9780141395098/) | 29.99 | Add to Cart | [Note](reviews/core-book-reviews.md#hobbes-leviathan) |
+| Spinoza | Ethics | [QBD](https://www.qbd.com.au/ethics/spinoza-benedict/9781840221190/) | 19.99 | Add to Cart | [Note](reviews/core-book-reviews.md#spinoza-ethics) |
+| Locke | Essay Concerning Human Understanding | [QBD](https://www.qbd.com.au/an-essay-concerning-human-understanding/john-locke/9781840227321/) | 19.99 | Add to Cart | [Note](reviews/core-book-reviews.md#locke-essay-concerning-human-understanding) |
+| Hume | An Enquiry concerning Human Understanding | [QBD](https://www.qbd.com.au/an-enquiry-concerning-human-understanding/david-hume/9780199549900/) | 32.99 | Add to Cart | [Note](reviews/core-book-reviews.md#hume-enquiry-concerning-human-understanding) |
+| Rousseau | The Social Contract (Penguin Classics) | [QBD](https://www.qbd.com.au/penguin-classics-social-contract/jean-jacques-rousseau/9780140442014/) | 26.99 | Add to Cart | [Note](reviews/core-book-reviews.md#rousseau-social-contract) |
+| Kant | Groundwork for the Metaphysics of Morals | [QBD](https://www.qbd.com.au/groundwork-for-the-metaphysics-of-morals/immanuel-kant/9780198786191/) | 34.99 | Add to Cart | [Note](reviews/core-book-reviews.md#kant-groundwork-of-the-metaphysics-of-morals) |
+| Hegel | Phenomenology of Spirit | [QBD](https://www.qbd.com.au/phenomenology-of-spirit/georg-wilhelm-friedrich-hegel/9780198245971/) | 56.99 | Add to Cart | [Note](reviews/core-book-reviews.md#hegel-phenomenology-of-spirit) |
+| Kierkegaard | Fear and Trembling (Penguin Classics) | [QBD](https://www.qbd.com.au/penguin-classics-fear-and-trembling/soren-kierkegaard/9780140444490/) | 26.99 | Add to Cart | [Note](reviews/core-book-reviews.md#kierkegaard-fear-and-trembling) |
+| Marx | The Communist Manifesto (Penguin Classics) | [QBD](https://www.qbd.com.au/penguin-classics-the-communist-manifesto/karl-marx-friedrich-engels/9780140447576/) | 14.99 | Add to Cart | [Note](reviews/core-book-reviews.md#marx-communist-manifesto) |
+| Nietzsche | Beyond Good and Evil | [QBD](https://www.qbd.com.au/beyond-good-and-evil/friedrich-wilhelm-nietzsche-helen-zimmern/9780486298689/) | 12.99 | Add to Cart | [Note](reviews/core-book-reviews.md#nietzsche-beyond-good-and-evil) |
+| Russell | The Problems of Philosophy | [QBD](https://www.qbd.com.au/the-problems-of-philosophy/bertrand-russell/9780192854230/) | 31.99 | Add to Cart | [Note](reviews/core-book-reviews.md#russell-the-problems-of-philosophy) |
+| Wittgenstein | Philosophical Investigations (4th Ed) | [QBD](https://www.qbd.com.au/philosophical-investigations-4th-ed/ludwig-wittgenstein/9781405159296/) | 53.95 | Add to Cart | [Note](reviews/core-book-reviews.md#wittgenstein-philosophical-investigations) |
 
 ## Imported Fallbacks (Use When AU Stock Fails)
 
@@ -86,3 +88,9 @@ Use this as the all-authors index. If a direct AU listing was not found, use the
 
 - Go to `docs/reviews/core-book-reviews.md` for quick review notes and what to look for in each text.
 - Pair this with `docs/plan/study-plans.md` for sequencing.
+
+## Pricing Refresh Workflow
+
+- Refresh cadence: review AU listings monthly and after major sale periods.
+- Source notes: record the store page used for each update and keep the capture date in `Price Snapshot`.
+- FX policy: when imported options are listed, use the RBA daily rate (or explicit fallback estimate) and record the assumption used.
