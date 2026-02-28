@@ -1,21 +1,22 @@
-# Books (AU-First Pricing and Links)
+# Books (AU-First Pricing and Links) 📘
 
-Price goal: prioritize AU stores first, then imported options only when total converted cost is better.
+Use this page to find strong editions quickly without overpaying.
+Priority is AU stores first, then imported options when landed cost is better.
 
-## Buying Rules
+## Buying Rules 🛒
 
 - AU-first: QBD, Booktopia, Dymocks, local independent stores.
 - Compare on total landed cost (book + shipping), not sticker price only.
 - If imported option is cheaper after FX conversion, mark as priority fallback.
 
-## Price Snapshot
+## Price Snapshot 📌
 
 - Captured: 2026-02-28
 - Currency baseline: AUD
 - USD conversion used for quick compare: 1 USD ~= 1.58 AUD
 - Important: prices and stock move; re-check before purchase.
 
-## AU Priority Picks (Verified Subset)
+## AU Priority Picks (Verified Subset) 🇦🇺
 
 This table is a curated subset of high-availability picks, not the full author list.
 
@@ -41,7 +42,7 @@ This table is a curated subset of high-availability picks, not the full author l
 | Russell | The Problems of Philosophy | [QBD](https://www.qbd.com.au/the-problems-of-philosophy/bertrand-russell/9780192854230/) | 31.99 | Add to Cart | [Note](reviews/core-book-reviews.md#russell-the-problems-of-philosophy) |
 | Wittgenstein | Philosophical Investigations (4th Ed) | [QBD](https://www.qbd.com.au/philosophical-investigations-4th-ed/ludwig-wittgenstein/9781405159296/) | 53.95 | Add to Cart | [Note](reviews/core-book-reviews.md#wittgenstein-philosophical-investigations) |
 
-## Imported Fallbacks (Use When AU Stock Fails)
+## Imported Fallbacks (Use When AU Stock Fails) 🌍
 
 | Thinker | Book | Source | USD + Shipping | Approx AUD | Priority |
 |---|---|---|---:|---:|---|
@@ -51,7 +52,7 @@ This table is a curated subset of high-availability picks, not the full author l
 | Maimonides | Guide for the Perplexed (various editions) | [AbeBooks](https://www.abebooks.com/servlet/SearchResults?kn=maimonides+guide+for+the+perplexed&sts=t) | price varies | varies | Use compare mode |
 | Avicenna | Book of Healing / selections | [AbeBooks](https://www.abebooks.com/servlet/SearchResults?kn=avicenna+book+of+healing&sts=t) | 25.19 + 19.99 | 71.38 | Low (expensive landed cost) |
 
-## Full Author-to-Book Catalog
+## Full Author-to-Book Catalog 🧾
 
 Use this as the all-authors index. If a direct AU listing was not found, use the search link.
 
@@ -84,12 +85,12 @@ Use this as the all-authors index. If a direct AU listing was not found, use the
 | Russell | Problems of Philosophy | [QBD listing](https://www.qbd.com.au/the-problems-of-philosophy/bertrand-russell/9780192854230/) |
 | Wittgenstein | Philosophical Investigations | [QBD listing](https://www.qbd.com.au/philosophical-investigations-4th-ed/ludwig-wittgenstein/9781405159296/) |
 
-## Reviews and Reading Notes
+## Reviews and Reading Notes ✍️
 
 - Go to `docs/reviews/core-book-reviews.md` for quick review notes and what to look for in each text.
 - Pair this with `docs/plan/study-plans.md` for sequencing.
 
-## Pricing Refresh Workflow
+## Pricing Refresh Workflow 🔁
 
 - Refresh cadence: review AU listings monthly and after major sale periods.
 - Source notes: record the store page used for each update and keep the capture date in `Price Snapshot`.

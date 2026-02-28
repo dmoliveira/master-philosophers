@@ -1,14 +1,15 @@
-# Core Book Reviews (Quick Notes)
+# Core Book Reviews (Quick Notes) 📝
 
-These are practical, study-first review notes for choosing editions and setting expectations.
+These short notes help you choose good editions fast and start reading with
+clear expectations.
 
-## How to Use This Page
+## How to Use This Page 👇
 
 - Read the 3 lines for each title before buying.
 - Use the "Best for" signal to choose your first edition.
 - Add your own notes under each entry as you finish a text.
 
-## Reviews
+## Reviews 📚
 
 ### Plato - Republic
 - Why read: Best single doorway into justice, education, and political design.
@@ -140,7 +141,7 @@ These are practical, study-first review notes for choosing editions and setting 
 - Difficulty: High.
 - Best for: Advanced discussions on meaning and method.
 
-## Personal Review Prompt Template
+## Personal Review Prompt Template ✍️
 
 Use this block under any title:
 

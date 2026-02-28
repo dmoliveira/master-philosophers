@@ -1,8 +1,9 @@
-# Study Plans (6 and 12 Months)
+# Study Plans (6 and 12 Months) 🗓️
 
-This file is execution-focused. Pair with `docs/books.md` and `docs/templates/weekly-study-checklist.md`.
+This page keeps your reading practical and steady.
+Pair it with `docs/books.md` and `docs/templates/weekly-study-checklist.md`.
 
-## 6-Month Intensive Track
+## 6-Month Intensive Track ⚡
 
 Target pace: 8-10 hours/week.
 
@@ -30,7 +31,7 @@ Target pace: 8-10 hours/week.
 - Kierkegaard, Mill, Marx, Nietzsche, Frege, Russell, Wittgenstein.
 - Output: final synthesis paper (6-10 pages).
 
-## 12-Month Deep Track
+## 12-Month Deep Track 🌱
 
 Target pace: 5-7 hours/week.
 
@@ -50,14 +51,14 @@ Target pace: 5-7 hours/week.
 - Kant, Hegel, Kierkegaard, Mill, Marx, Nietzsche, Frege, Russell, Wittgenstein.
 - Goal: modern critique plus analytic method.
 
-## Monthly Rhythm (Both Tracks)
+## Monthly Rhythm (Both Tracks) 🔄
 
 - Week 1: Primary text focus and annotation.
 - Week 2: Secondary guide and terminology consolidation.
 - Week 3: Write one argument reconstruction.
 - Week 4: Discussion, review, and spaced repetition.
 
-## Deliverable Checklist
+## Deliverable Checklist ✅
 
 - 1 argument map per philosopher (minimum concise format).
 - 1 monthly comparison note.
