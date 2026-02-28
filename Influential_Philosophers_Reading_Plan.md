@@ -2,6 +2,12 @@
 
 This guide adds key facts, the core shift each philosopher introduced, major impact, practical takeaways, and extra high-value readings.
 
+Modular references now live in:
+- `docs/authors.md`
+- `docs/books.md`
+- `docs/reviews/core-book-reviews.md`
+- `docs/plan/study-plans.md`
+
 ## Recommended Reading Flow 🧭
 
 1. Plato -> Aristotle
