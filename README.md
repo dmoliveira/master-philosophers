@@ -1,6 +1,6 @@
 # Master Philosophers
 
-A private-first philosophy knowledge repo with practical reading order, key thinker facts, AU-friendly book buying guidance, and study execution templates.
+A practical philosophy learning repo for anyone who wants to expand how they think by studying influential thinkers, logic traditions, major questions, and argument patterns across history.
 
 ## Start Here
 
@@ -18,7 +18,7 @@ A private-first philosophy knowledge repo with practical reading order, key thin
 - `docs/plan/study-plans.md`: structured 6-month and 12-month plans.
 - `docs/templates/weekly-study-checklist.md`: reusable weekly execution template.
 - `docs/specs/edition-selection-spec.md`: rules for choosing editions and upgrades.
-- `Influential_Philosophers_Reading_Plan.md`: long-form narrative reading guide.
+- `Influential_Philosophers_Reading_Plan.md`: quick index for the reading flow.
 - `CONTRIBUTING.md`: contribution and curation rules.
 
 ## Design Principles
