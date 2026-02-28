@@ -1,9 +1,9 @@
-# Influential Philosophers Reading Plan
+# Influential Philosophers Reading Plan 🧭
 
-This file is now a lightweight index to avoid duplication drift.
+This is a lightweight index so everything stays clean and up to date.
 Use the linked docs below as the single source of truth.
 
-## Start Here
+## Start Here 🚀
 
 1. Read `docs/authors.md` for thinker overviews and intellectual shifts.
 2. Pick editions and buying paths in `docs/books.md`.
@@ -11,7 +11,7 @@ Use the linked docs below as the single source of truth.
 4. Use `docs/templates/weekly-study-checklist.md` to execute each week.
 5. Capture reflections in `docs/reviews/core-book-reviews.md`.
 
-## Recommended Reading Flow
+## Recommended Reading Flow 📚
 
 1. Plato -> Aristotle
 2. Confucius (parallel classical stream)
@@ -22,7 +22,7 @@ Use the linked docs below as the single source of truth.
 7. Kierkegaard -> Mill -> Marx -> Nietzsche
 8. Frege -> Russell -> Wittgenstein
 
-## Notes
+## Notes 📝
 
 - Keep additions and updates in the modular docs under `docs/`.
 - If this flow changes, update `docs/plan/study-plans.md` first.

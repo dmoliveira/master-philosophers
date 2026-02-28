@@ -1,8 +1,13 @@
-# Master Philosophers
+# Master Philosophers 🧠📚
 
-A practical philosophy learning repo for anyone who wants to expand how they think by studying influential thinkers, logic traditions, major questions, and argument patterns across history.
+[![Docs Quality Checks](https://github.com/dmoliveira/master-philosophers/actions/workflows/docs-links.yml/badge.svg)](https://github.com/dmoliveira/master-philosophers/actions/workflows/docs-links.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## Start Here
+A practical learning space for anyone who wants to think more clearly by
+studying great philosophers, logic traditions, big questions, and argument
+patterns across history.
+
+## Start Here 🚀
 
 1. Read the map in `docs/authors.md`.
 2. Pick the matching books in `docs/books.md`.
@@ -10,7 +15,7 @@ A practical philosophy learning repo for anyone who wants to expand how they thi
 4. Use the weekly template in `docs/templates/weekly-study-checklist.md`.
 5. Capture reflections from `docs/reviews/core-book-reviews.md`.
 
-## Repository Index
+## Repository Index 🗂️
 
 - `docs/authors.md`: all philosophers, key facts, and main intellectual shifts.
 - `docs/books.md`: AU-focused buying list with links, AU prices, and fallback conversion logic.
@@ -21,12 +26,12 @@ A practical philosophy learning repo for anyone who wants to expand how they thi
 - `Influential_Philosophers_Reading_Plan.md`: quick index for the reading flow.
 - `CONTRIBUTING.md`: contribution and curation rules.
 
-## Design Principles
+## Design Principles 🎯
 
 - AU-first sourcing and pricing whenever possible.
 - Prefer readable editions for first pass, critical editions for second pass.
 - Split large content by concern (authors, books, plans, reviews).
 
-## License
+## License 📄
 
 MIT. See `LICENSE`.

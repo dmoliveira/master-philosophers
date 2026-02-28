@@ -18,6 +18,7 @@ LINK_RE = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 
 def normalize_heading(text: str) -> str:
     text = text.strip().lower()
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
     text = re.sub(r"`([^`]*)`", r"\1", text)
     text = re.sub(r"\*\*([^*]+)\*\*", r"\1", text)
     text = re.sub(r"\*([^*]+)\*", r"\1", text)

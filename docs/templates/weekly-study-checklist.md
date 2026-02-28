@@ -1,6 +1,6 @@
-# Weekly Study Checklist Template
+# Weekly Study Checklist Template ✅
 
-Copy this block once per week.
+Copy this block once per week to stay focused and consistent. 📅
 
 ```text
 Week of:
