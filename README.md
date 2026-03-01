@@ -11,6 +11,8 @@
 [![Reading Streak](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/dmoliveira/master-philosophers/main/docs/stats/reading-streak-badge.json)](docs/stats/reading-streak.md)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+Tip: update the streak badge with `make streak weeks=<n>`.
+
 A practical learning space for anyone who wants to think more clearly by
 studying great philosophers, logic traditions, big questions, and argument
 patterns across history.

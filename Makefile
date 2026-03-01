@@ -1,7 +1,8 @@
 PROJECT_NAME := master-philosophers
 PROJECT_VERSION := 0.1.0
+weeks ?= 0
 
-.PHONY: help docs-lint docs-links docs-check
+.PHONY: help docs-lint docs-links docs-check streak
 
 help: ## Show available commands
 	@printf "%s v%s\n" "$(PROJECT_NAME)" "$(PROJECT_VERSION)"
@@ -15,3 +16,6 @@ docs-links: ## Validate local markdown links and anchors
 	python3 scripts/check_markdown_links.py
 
 docs-check: docs-lint docs-links ## Run docs lint and link checks
+
+streak: ## Update streak badge (usage: make streak weeks=4)
+	python3 scripts/update_reading_streak_badge.py --weeks $(weeks)
