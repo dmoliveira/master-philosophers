@@ -22,6 +22,7 @@ This dashboard tracks the current readiness state for the Zensical prototype.
 - Preview run log: `docs/plan/zensical-prototype-preview-log.md`
 - Parity checklist: `docs/plan/zensical-prototype-parity-checklist.md`
 - Config checklist: `docs/plan/zensical-config-migration-checklist.md`
+- Readiness rubric: `docs/plan/zensical-prototype-readiness-rubric.md`
 - Review report template: `docs/templates/zensical-prototype-review-report.md`
 
 ## Next priority items
