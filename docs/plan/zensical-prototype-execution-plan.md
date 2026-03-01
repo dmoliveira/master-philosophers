@@ -49,4 +49,5 @@ one full review pass confirms no onboarding regressions.
 - Track each preview run in `docs/plan/zensical-prototype-preview-log.md`.
 - Use `docs/plan/zensical-prototype-ops-quick-ref.md` for routine execution commands.
 - Use `docs/templates/zensical-prototype-review-report.md` for each review pass.
+- Use `docs/templates/zensical-prototype-handoff-checklist.md` before each handoff.
 - Use `docs/plan/zensical-prototype-status-dashboard.md` for current readiness state.
