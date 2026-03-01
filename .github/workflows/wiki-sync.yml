@@ -1,0 +1,64 @@
+name: Sync Wiki Support Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - docs/support-the-project.md
+      - docs/wiki-support-snippet.md
+      - .github/workflows/wiki-sync.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync support docs to wiki
+        env:
+          REPO: ${{ github.repository }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          WIKI_URL="https://x-access-token:${GH_TOKEN}@github.com/${REPO}.wiki.git"
+
+          if ! git ls-remote --exit-code "${WIKI_URL}" >/dev/null 2>&1; then
+            echo "Wiki repository is not available yet; skipping sync."
+            exit 0
+          fi
+
+          git clone "${WIKI_URL}" wiki
+
+          cp docs/support-the-project.md wiki/Support-the-Project.md
+          cp docs/wiki-support-snippet.md wiki/Support-Snippet.md
+
+          printf '%s\n' \
+            '# Master Philosophers Wiki' \
+            '' \
+            'Welcome. This wiki is synced from repository docs.' \
+            '' \
+            '## Support' \
+            '' \
+            '- See `Support-the-Project` for the full contribution page.' \
+            '- See `Support-Snippet` for a copy-paste block you can reuse.' \
+            > wiki/Home.md
+
+          cd wiki
+          if git diff --quiet --exit-code; then
+            echo "No wiki changes to commit."
+            exit 0
+          fi
+
+          git add Support-the-Project.md Support-Snippet.md Home.md
+          git commit -m "docs: sync support pages from main"
+          git push
