@@ -52,3 +52,4 @@ one full review pass confirms no onboarding regressions.
 - Use `docs/templates/zensical-prototype-handoff-checklist.md` before each handoff.
 - Use `docs/templates/zensical-migration-readiness-decision-log.md` for each decision gate.
 - Use `docs/plan/zensical-prototype-status-dashboard.md` for current readiness state.
+- Use `docs/plan/zensical-prototype-readiness-rubric.md` to quantify cutover readiness.
