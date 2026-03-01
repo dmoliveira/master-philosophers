@@ -35,3 +35,9 @@ Thanks for helping improve this philosophy learning repo.
 - [ ] Updated any affected index links in `README.md`.
 - [ ] Kept sections small enough to scan quickly.
 - [ ] Included date/source notes for pricing changes.
+
+## Support and Sustainability
+
+- Reader support link (Stripe): [Support via Stripe](https://buy.stripe.com/8x200i8bSgVe3Vl3g8bfO00)
+- Keep support messaging honest: content stays free, support funds maintenance and growth.
+- If you update support messaging, also update `docs/support-the-project.md` and `docs/wiki-support-snippet.md`.

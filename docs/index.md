@@ -20,6 +20,7 @@ Need a guided orientation first? Open `How to Use This Site`.
 - Media-first learning: `Media Watchlists`
 - Choose your path: `Navigation Map`
 - Support ongoing updates: `Support the Project`
+- Support this mission: [Donate via Stripe](https://buy.stripe.com/8x200i8bSgVe3Vl3g8bfO00)
 
 ## What you can browse here
 

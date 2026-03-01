@@ -21,4 +21,4 @@ Use this page when you are not sure where to start.
 - Use one fixed study slot each week.
 - Track your streak in `stats/reading-streak.md`.
 - Follow the navigation footer at the end of pages for next steps.
-- If this project helps you, use `Support the Project` to fund updates.
+- If this project helps you, support updates here: [Donate via Stripe](https://buy.stripe.com/8x200i8bSgVe3Vl3g8bfO00)

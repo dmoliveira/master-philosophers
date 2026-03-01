@@ -12,9 +12,11 @@
 [![Study Tracks](https://img.shields.io/badge/Study%20Tracks-6%20%26%2012%20months-1f6feb)](docs/plan/study-plans.md)
 [![Reading Streak](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/dmoliveira/master-philosophers/main/docs/stats/reading-streak-badge.json)](docs/stats/reading-streak.md)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Support via Stripe](https://img.shields.io/badge/support-stripe-635bff?logo=stripe&logoColor=white)](https://buy.stripe.com/8x200i8bSgVe3Vl3g8bfO00)
 
 Tip: update the streak badge with `make streak weeks=<n>`.
 Visit the docs site: `https://dmoliveira.github.io/master-philosophers/`.
+Support this project and future education projects: [Stripe support link](https://buy.stripe.com/8x200i8bSgVe3Vl3g8bfO00)
 
 A practical learning space for anyone who wants to think more clearly by
 studying great philosophers, logic traditions, big questions, and argument
@@ -95,8 +97,10 @@ Want the full map? Go to `docs/authors.md`.
 If this project helps your learning, you can support maintenance and new content:
 
 - Setup and donation options: `docs/support-the-project.md`
-- Suggested Stripe flow: create a payment link and place it in that page
+- Wiki-ready support snippet: `docs/wiki-support-snippet.md`
+- Donate now via Stripe: [Support Master Philosophers](https://buy.stripe.com/8x200i8bSgVe3Vl3g8bfO00)
 - Core content remains free; support helps fund updates and expansion
+- Contributions also help sustain other open education and learning projects.
 
 ## Image Credits 📷
 
@@ -109,6 +113,7 @@ If this project helps your learning, you can support maintenance and new content
 - `docs/books.md`: AU-focused buying list with links, AU prices, and fallback conversion logic.
 - `docs/reviews/core-book-reviews.md`: short reading notes and practical review prompts.
 - `docs/support-the-project.md`: donation and sustainability options (including Stripe link setup).
+- `docs/wiki-support-snippet.md`: reusable block to paste into the GitHub Wiki home page.
 - `docs/resources/learning-resources.md`: curated reference links, courses, and media.
 - `docs/resources/media-watchlists.md`: beginner-to-advanced watch/listen tracks.
 - `docs/resources/access-alternatives.md`: region/language and low-bandwidth fallback guidance.
