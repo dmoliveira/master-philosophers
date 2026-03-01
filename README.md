@@ -3,6 +3,7 @@
 ![Master Philosophers Hero](docs/assets/hero-banner.svg)
 
 [![Docs Quality Checks](https://github.com/dmoliveira/master-philosophers/actions/workflows/docs-links.yml/badge.svg)](https://github.com/dmoliveira/master-philosophers/actions/workflows/docs-links.yml)
+[![Docs Site Deploy](https://github.com/dmoliveira/master-philosophers/actions/workflows/pages.yml/badge.svg)](https://github.com/dmoliveira/master-philosophers/actions/workflows/pages.yml)
 [![Docs Site](https://img.shields.io/badge/docs-live_site-0a7ea4)](https://dmoliveira.github.io/master-philosophers/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/dmoliveira/master-philosophers)](https://github.com/dmoliveira/master-philosophers/commits/main)
