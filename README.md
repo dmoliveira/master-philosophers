@@ -127,6 +127,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/plan/zensical-cutover-runbook-template.md`: runbook template for live cutover execution and rollback decisions.
 - `docs/plan/zensical-post-cutover-verification-checklist.md`: production verification checklist for immediately after cutover.
 - `docs/plan/zensical-rollback-verification-checklist.md`: verification checklist to confirm stable state after rollback.
+- `docs/plan/zensical-migration-lessons-learned-index.md`: reusable migration lessons with evidence and prevention notes.
 - `docs/templates/zensical-cutover-communication-template.md`: standardized communication messages for cutover updates.
 - `docs/templates/zensical-migration-postmortem-template.md`: post-run review template for lessons learned and remediations.
 - `docs/templates/zensical-prototype-review-report.md`: template for recording each prototype review pass.
