@@ -18,3 +18,4 @@ Use these practical worksheets to structure your study sessions.
 
 - [Zensical prototype review report](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-prototype-review-report.md)
 - [Zensical prototype handoff checklist](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-prototype-handoff-checklist.md)
+- [Zensical migration readiness decision log](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-readiness-decision-log.md)
