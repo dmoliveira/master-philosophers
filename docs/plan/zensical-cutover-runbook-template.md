@@ -10,6 +10,8 @@ Use this runbook during the migration cutover window.
 - Rollback owner:
 - Communication channel:
 
+Communication template: `docs/templates/zensical-cutover-communication-template.md`.
+
 ## Phase 1 - Pre-cutover checks
 
 - [ ] Preflight checklist completed.
