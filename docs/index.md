@@ -2,6 +2,11 @@
 
 Welcome to the public study site for the Master Philosophers project.
 
+## Project freshness
+
+[![Last updated](https://img.shields.io/github/last-commit/dmoliveira/master-philosophers/main?label=last%20updated)](https://github.com/dmoliveira/master-philosophers/commits/main)
+[![Latest release](https://img.shields.io/github/v/release/dmoliveira/master-philosophers?display_name=tag&label=latest%20release)](https://github.com/dmoliveira/master-philosophers/releases)
+
 ## Start in 15 minutes
 
 1. Read one thinker in `Authors Map`.
