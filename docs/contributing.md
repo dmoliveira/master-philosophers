@@ -6,6 +6,11 @@ Thanks for helping improve this philosophy learning hub.
 - Keep docs updates small, focused, and link-safe.
 - Prefer clear, beginner-friendly language.
 
+## Local validation
+
+- Run docs lint and link checks: `make docs-check`
+- Run strict site build (pinned MkDocs engine): `make docs-site-check`
+
 ## Core references
 
 - Edition policy: `specs/edition-selection-spec.md`
