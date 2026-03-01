@@ -12,10 +12,10 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 ## Planned Passes (12)
 
 - [x] Pass 1: foundation setup (roadmap + first resource packs)
-- [ ] Pass 2: refine beginner onboarding flow
+- [x] Pass 2: refine beginner onboarding flow
 - [ ] Pass 3: strengthen philosopher quick-map and progression logic
 - [ ] Pass 4: add logic and argument drill exercises
-- [ ] Pass 5: add documentary/video quality tags
+- [x] Pass 5: add documentary/video quality tags
 - [ ] Pass 6: add regional/language access alternatives
 - [ ] Pass 7: add exam/discussion prompt bank
 - [ ] Pass 8: add printable one-page study sheet versions
@@ -31,6 +31,12 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - Added a roadmap to structure multi-pass execution.
 - Added initial resource hub and cheat sheets.
 - Added a first visual timeline asset.
+
+### Pass 2
+
+- Added `docs/plan/week-zero-kickoff.md` for a beginner-friendly start flow.
+- Added `docs/resources/media-watchlists.md` with beginner/intermediate/advanced tracks.
+- Linked onboarding and watchlists in README and resource hub.
 
 ## Continue Keyword
 

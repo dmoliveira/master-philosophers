@@ -28,6 +28,8 @@ If you only have 15 minutes, do this:
 
 By the end, you will have one concrete reading plan and one output.
 
+If you want a full beginner launch path, use `docs/plan/week-zero-kickoff.md`.
+
 ## Start Here 🚀
 
 1. Read the map in `docs/authors.md`.
@@ -39,6 +41,7 @@ By the end, you will have one concrete reading plan and one output.
 ## Study Hub Extensions 🧰
 
 - Learning resources hub: `docs/resources/learning-resources.md`
+- Media watchlists by level: `docs/resources/media-watchlists.md`
 - Argument cheat sheet: `docs/cheatsheets/argument-analysis-cheat-sheet.md`
 - Philosopher quick map: `docs/cheatsheets/philosopher-quick-map.md`
 - Enrichment roadmap and pass tracking: `docs/plan/enrichment-roadmap.md`
@@ -71,9 +74,11 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/books.md`: AU-focused buying list with links, AU prices, and fallback conversion logic.
 - `docs/reviews/core-book-reviews.md`: short reading notes and practical review prompts.
 - `docs/resources/learning-resources.md`: curated reference links, courses, and media.
+- `docs/resources/media-watchlists.md`: beginner-to-advanced watch/listen tracks.
 - `docs/cheatsheets/argument-analysis-cheat-sheet.md`: fast argument reading method.
 - `docs/cheatsheets/philosopher-quick-map.md`: one-glance map of thinkers and lanes.
 - `docs/plan/study-plans.md`: structured 6-month and 12-month plans.
+- `docs/plan/week-zero-kickoff.md`: first-session onboarding path for new learners.
 - `docs/plan/enrichment-roadmap.md`: multi-pass content expansion tracker.
 - `docs/templates/weekly-study-checklist.md`: reusable weekly execution template.
 - `docs/specs/edition-selection-spec.md`: rules for choosing editions and upgrades.
