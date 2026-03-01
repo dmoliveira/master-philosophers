@@ -37,6 +37,7 @@ Preview workflow scaffold: `.github/workflows/zensical-preview.yml`.
 - [ ] No broken internal links in preview output.
 - [ ] Mobile layout is readable on key pages.
 - [ ] Parity checklist is fully complete.
+- [ ] Config checklist is complete (`docs/plan/zensical-config-migration-checklist.md`).
 
 ## Rollout decision gate
 
