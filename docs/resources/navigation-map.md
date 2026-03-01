@@ -44,4 +44,4 @@ Use this map when you are not sure where to start.
 
 1. `docs/support-the-project.md`
 2. `docs/wiki-support-snippet.md`
-3. Donate directly: [Stripe support link](https://buy.stripe.com/8x200i8bSgVe3Vl3g8bfO00)
+3. Donate directly: [Stripe support link](https://buy.stripe.com/8x200i8bSgVe3Vl3g8bfO00){ data-support-location="navigation-map" }
