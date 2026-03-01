@@ -33,3 +33,4 @@ Use these practical worksheets to structure your study sessions.
 - [Zensical migration decision timeline template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-decision-timeline-template.md)
 - [Zensical migration readiness scoreboard template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-readiness-scoreboard-template.md)
 - [Zensical migration readiness summary deck template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-readiness-summary-deck-template.md)
+- [Zensical migration readiness FAQ template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-readiness-faq-template.md)
