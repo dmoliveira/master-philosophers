@@ -1,35 +1,33 @@
 # Support the Project
 
-If this study hub saves you time or helps your learning routine, you can support
-ongoing updates and maintenance.
+If this study hub helps your learning, please consider supporting it.
+Your contribution helps keep this project free and also funds future
+education and learning projects.
 
-## Fastest setup with Stripe
+## Donate now (Stripe)
 
-1. Create a payment link in Stripe Dashboard.
-2. Choose one-time support amount (for example: 5, 15, 30 AUD).
-3. Copy the hosted payment URL.
-4. Replace the placeholder link below with your real URL.
+- Contribute securely: [Support via Stripe](https://buy.stripe.com/8x200i8bSgVe3Vl3g8bfO00)
+- If this project helped you, please share this link with other learners.
 
-Support link placeholder:
+## Suggested contribution levels
 
-- `https://buy.stripe.com/your-live-link`
+- 5 AUD: supports link maintenance and quick doc fixes.
+- 15 AUD: supports monthly source refresh and quality checks.
+- 30 AUD: supports new study packs, modern thinker expansions, and templates.
 
-Once your link is live, readers can contribute without account creation.
+## What support funds
 
-## Suggested support tiers
+- New books and philosopher additions.
+- Better study guides, prompts, and worksheets.
+- Ongoing docs checks, navigation polish, and reliability updates.
 
-- 5 AUD: keeps links, references, and typo fixes moving.
-- 15 AUD: helps fund monthly source refresh and edition checks.
-- 30 AUD: helps fund new study templates and modern thinker expansions.
+## Keep it transparent
 
-## Trust and transparency notes
+- Core learning content remains free.
+- Publish a short monthly note on what support enabled.
+- Keep support optional and never gate essential study materials.
 
-- Keep support optional; all core learning content remains free.
-- Add a short monthly changelog note describing what support funded.
-- Avoid promising private coaching unless you explicitly offer it.
+## Add this to your GitHub Wiki
 
-## Alternative funding ideas
-
-- Add a GitHub Sponsors profile for recurring support.
-- Offer a paid printable bundle (worksheets + reading trackers).
-- Offer a community workshop recording pack with discussion prompts.
+Use `docs/wiki-support-snippet.md` as a ready-to-paste support block for your
+Wiki home page.
