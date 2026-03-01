@@ -119,6 +119,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/plan/zensical-prototype-execution-plan.md`: step-by-step prototype branch execution plan.
 - `docs/plan/zensical-prototype-bootstrap-plan.md`: safe branch and preview workflow bootstrap sequence.
 - `docs/plan/zensical-prototype-preview-log.md`: recorded preview runs and status evidence.
+- `docs/plan/zensical-config-migration-checklist.md`: configuration migration checklist for prototype readiness.
 - `.github/workflows/zensical-preview.yml`: preview artifact workflow scaffold for the `zensical-prototype` branch.
 - `docs/templates/weekly-study-checklist.md`: reusable weekly execution template.
 - `docs/templates/objection-reply-lab.md`: focused objection/reply practice worksheet.
