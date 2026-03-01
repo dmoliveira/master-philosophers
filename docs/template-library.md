@@ -35,3 +35,4 @@ Use these practical worksheets to structure your study sessions.
 - [Zensical migration readiness summary deck template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-readiness-summary-deck-template.md)
 - [Zensical migration readiness FAQ template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-readiness-faq-template.md)
 - [Zensical migration evidence bundle template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-evidence-bundle-template.md)
+- [Zensical migration acceptance criteria template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-acceptance-criteria-template.md)
