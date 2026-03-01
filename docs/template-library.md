@@ -30,3 +30,4 @@ Use these practical worksheets to structure your study sessions.
 - [Zensical migration escalation playbook template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-escalation-playbook-template.md)
 - [Zensical migration checkpoint report template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-checkpoint-report-template.md)
 - [Zensical migration ownership matrix template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-ownership-matrix-template.md)
+- [Zensical migration decision timeline template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-decision-timeline-template.md)

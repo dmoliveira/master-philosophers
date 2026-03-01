@@ -64,3 +64,4 @@ Issue triage template: `docs/templates/zensical-migration-issue-triage-template.
 Escalation playbook: `docs/templates/zensical-migration-escalation-playbook-template.md`.
 Checkpoint report template: `docs/templates/zensical-migration-checkpoint-report-template.md`.
 Ownership matrix template: `docs/templates/zensical-migration-ownership-matrix-template.md`.
+Decision timeline template: `docs/templates/zensical-migration-decision-timeline-template.md`.
