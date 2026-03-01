@@ -37,3 +37,4 @@ Use these practical worksheets to structure your study sessions.
 - [Zensical migration evidence bundle template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-evidence-bundle-template.md)
 - [Zensical migration acceptance criteria template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-acceptance-criteria-template.md)
 - [Zensical migration phase gate checklist template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-phase-gate-checklist-template.md)
+- [Zensical migration quality gate template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-quality-gate-template.md)
