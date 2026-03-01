@@ -3,6 +3,7 @@
 ![Master Philosophers Hero](docs/assets/hero-banner.svg)
 
 [![Docs Quality Checks](https://github.com/dmoliveira/master-philosophers/actions/workflows/docs-links.yml/badge.svg)](https://github.com/dmoliveira/master-philosophers/actions/workflows/docs-links.yml)
+[![Docs Site](https://img.shields.io/badge/docs-live_site-0a7ea4)](https://dmoliveira.github.io/master-philosophers/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/dmoliveira/master-philosophers)](https://github.com/dmoliveira/master-philosophers/commits/main)
 [![Open Issues](https://img.shields.io/github/issues/dmoliveira/master-philosophers)](https://github.com/dmoliveira/master-philosophers/issues)
@@ -12,6 +13,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 Tip: update the streak badge with `make streak weeks=<n>`.
+Visit the docs site: `https://dmoliveira.github.io/master-philosophers/`.
 
 A practical learning space for anyone who wants to think more clearly by
 studying great philosophers, logic traditions, big questions, and argument
