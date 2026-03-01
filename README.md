@@ -46,6 +46,8 @@ If you want a full beginner launch path, use `docs/plan/week-zero-kickoff.md`.
 - Discussion prompt bank: `docs/resources/discussion-prompt-bank.md`
 - Argument cheat sheet: `docs/cheatsheets/argument-analysis-cheat-sheet.md`
 - Logic drills: `docs/cheatsheets/logic-drills.md`
+- One-page study sheet: `docs/cheatsheets/one-page-study-sheet.md`
+- Thinker comparison sheet: `docs/cheatsheets/thinker-comparison-sheet.md`
 - Philosopher quick map: `docs/cheatsheets/philosopher-quick-map.md`
 - Progression paths: `docs/plan/progression-paths.md`
 - Enrichment roadmap and pass tracking: `docs/plan/enrichment-roadmap.md`
@@ -83,6 +85,8 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/resources/discussion-prompt-bank.md`: leveled prompts for solo/group assessment.
 - `docs/cheatsheets/argument-analysis-cheat-sheet.md`: fast argument reading method.
 - `docs/cheatsheets/logic-drills.md`: short reasoning drills for weekly practice.
+- `docs/cheatsheets/one-page-study-sheet.md`: printable single-page study worksheet.
+- `docs/cheatsheets/thinker-comparison-sheet.md`: printable side-by-side thinker grid.
 - `docs/cheatsheets/philosopher-quick-map.md`: one-glance map of thinkers and lanes.
 - `docs/plan/study-plans.md`: structured 6-month and 12-month plans.
 - `docs/plan/week-zero-kickoff.md`: first-session onboarding path for new learners.
