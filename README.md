@@ -49,6 +49,7 @@ If you want a full beginner launch path, use `docs/plan/week-zero-kickoff.md`.
 - Better argument skills: `docs/cheatsheets/logic-drills.md`
 - Media-first learning: `docs/resources/media-watchlists.md`
 - Full route map: `docs/resources/navigation-map.md`
+- Support the project: `docs/support-the-project.md`
 - Website rollout proposal: `docs/plan/github-pages-site-map.md`
 
 ## Study Hub Extensions 🧰
@@ -67,6 +68,8 @@ If you want a full beginner launch path, use `docs/plan/week-zero-kickoff.md`.
 - Philosopher quick map: `docs/cheatsheets/philosopher-quick-map.md`
 - Progression paths: `docs/plan/progression-paths.md`
 - Enrichment roadmap and pass tracking: `docs/plan/enrichment-roadmap.md`
+- Support page for donations and sustainability: `docs/support-the-project.md`
+- Latest content gap review: `docs/plan/content-quality-audit.md`
 - GitHub Pages site map proposal: `docs/plan/github-pages-site-map.md`
 
 ![Philosophy Timeline](docs/assets/philosophy-timeline.svg)
@@ -87,6 +90,14 @@ Quick visual entry points to key thinkers:
 
 Want the full map? Go to `docs/authors.md`.
 
+## Support This Project 💛
+
+If this project helps your learning, you can support maintenance and new content:
+
+- Setup and donation options: `docs/support-the-project.md`
+- Suggested Stripe flow: create a payment link and place it in that page
+- Core content remains free; support helps fund updates and expansion
+
 ## Image Credits 📷
 
 - Portrait thumbnails are loaded from Wikimedia Commons pages linked above.
@@ -97,6 +108,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/authors.md`: all philosophers, key facts, and main intellectual shifts.
 - `docs/books.md`: AU-focused buying list with links, AU prices, and fallback conversion logic.
 - `docs/reviews/core-book-reviews.md`: short reading notes and practical review prompts.
+- `docs/support-the-project.md`: donation and sustainability options (including Stripe link setup).
 - `docs/resources/learning-resources.md`: curated reference links, courses, and media.
 - `docs/resources/media-watchlists.md`: beginner-to-advanced watch/listen tracks.
 - `docs/resources/access-alternatives.md`: region/language and low-bandwidth fallback guidance.
@@ -112,6 +124,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/plan/study-plans.md`: structured 6-month and 12-month plans.
 - `docs/plan/week-zero-kickoff.md`: first-session onboarding path for new learners.
 - `docs/plan/progression-paths.md`: clear "what to read next" routes by goal.
+- `docs/plan/content-quality-audit.md`: latest quality review, weak-point analysis, and improvement queue.
 - `docs/plan/enrichment-roadmap.md`: multi-pass content expansion tracker.
 - `docs/plan/github-pages-site-map.md`: proposal to publish and link all docs on GitHub Pages.
 - `docs/plan/zensical-migration-evaluation.md`: phased evaluation and cutover criteria for generator migration.

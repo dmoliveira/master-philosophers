@@ -84,6 +84,26 @@ Use this as the all-authors index. If a direct AU listing was not found, use the
 | Frege | Begriffsschrift | [AbeBooks search](https://www.abebooks.com/servlet/SearchResults?kn=frege+begriffsschrift&sts=t) |
 | Russell | Problems of Philosophy | [QBD listing](https://www.qbd.com.au/the-problems-of-philosophy/bertrand-russell/9780192854230/) |
 | Wittgenstein | Philosophical Investigations | [QBD listing](https://www.qbd.com.au/philosophical-investigations-4th-ed/ludwig-wittgenstein/9781405159296/) |
+| Arendt | The Human Condition | [QBD search](https://www.qbd.com.au/search/?q=hannah+arendt+the+human+condition) |
+| Beauvoir | The Ethics of Ambiguity | [QBD search](https://www.qbd.com.au/search/?q=simone+de+beauvoir+ethics+of+ambiguity) |
+| Fanon | Black Skin, White Masks | [QBD search](https://www.qbd.com.au/search/?q=frantz+fanon+black+skin+white+masks) |
+| Rawls | A Theory of Justice | [QBD search](https://www.qbd.com.au/search/?q=john+rawls+a+theory+of+justice) |
+| Foucault | Discipline and Punish | [QBD search](https://www.qbd.com.au/search/?q=michel+foucault+discipline+and+punish) |
+| Nussbaum | Creating Capabilities | [QBD search](https://www.qbd.com.au/search/?q=martha+nussbaum+creating+capabilities) |
+
+## Modern and Contemporary Starter Shelf 🌐
+
+Use this shelf if you want a fast route into current debates on justice,
+identity, institutions, and global ethics.
+
+| Thinker | Starter Text | Access Link | Why It Matters |
+|---|---|---|---|
+| Hannah Arendt | *The Human Condition* | [QBD search](https://www.qbd.com.au/search/?q=hannah+arendt+the+human+condition) | Public action, freedom, and responsibility in mass society. |
+| Simone de Beauvoir | *The Ethics of Ambiguity* | [QBD search](https://www.qbd.com.au/search/?q=simone+de+beauvoir+ethics+of+ambiguity) | Clear bridge from existentialism to modern feminist ethics. |
+| Frantz Fanon | *Black Skin, White Masks* | [QBD search](https://www.qbd.com.au/search/?q=frantz+fanon+black+skin+white+masks) | Foundational anti-colonial analysis of race and identity. |
+| John Rawls | *A Theory of Justice* | [QBD search](https://www.qbd.com.au/search/?q=john+rawls+a+theory+of+justice) | Core framework for fairness, institutions, and legitimacy. |
+| Michel Foucault | *Discipline and Punish* | [QBD search](https://www.qbd.com.au/search/?q=michel+foucault+discipline+and+punish) | Power, surveillance, and modern institutions. |
+| Martha Nussbaum | *Creating Capabilities* | [QBD search](https://www.qbd.com.au/search/?q=martha+nussbaum+creating+capabilities) | Practical justice model used in policy and development. |
 
 ## Reviews and Reading Notes ✍️
 
