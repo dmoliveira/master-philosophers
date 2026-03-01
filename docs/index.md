@@ -9,9 +9,12 @@ Welcome to the public study site for the Master Philosophers project.
 3. Use one block from `Weekly Study Checklist`.
 4. Write one reflection in `Core Book Reviews`.
 
+Need a guided orientation first? Open `How to Use This Site`.
+
 ## Fast routes
 
 - New learner: `Week Zero Kickoff`
+- Site orientation: `How to Use This Site`
 - Weekly cadence: `Study Plans`
 - Better argument skills: `Logic Drills`
 - Media-first learning: `Media Watchlists`

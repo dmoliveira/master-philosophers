@@ -43,6 +43,7 @@ If you want a full beginner launch path, use `docs/plan/week-zero-kickoff.md`.
 ## Choose by Goal 🎯
 
 - New learner: `docs/plan/week-zero-kickoff.md`
+- Site orientation: `docs/how-to-use-this-site.md`
 - Weekly routine: `docs/plan/study-plans.md`
 - Better argument skills: `docs/cheatsheets/logic-drills.md`
 - Media-first learning: `docs/resources/media-watchlists.md`
