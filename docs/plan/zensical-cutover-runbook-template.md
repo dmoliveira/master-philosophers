@@ -68,3 +68,4 @@ Decision timeline template: `docs/templates/zensical-migration-decision-timeline
 Readiness scoreboard template: `docs/templates/zensical-migration-readiness-scoreboard-template.md`.
 Readiness summary deck template: `docs/templates/zensical-migration-readiness-summary-deck-template.md`.
 Readiness FAQ template: `docs/templates/zensical-migration-readiness-faq-template.md`.
+Evidence bundle template: `docs/templates/zensical-migration-evidence-bundle-template.md`.
