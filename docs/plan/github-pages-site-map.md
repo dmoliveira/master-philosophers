@@ -6,7 +6,8 @@ to browse, search, and share.
 ## Status
 
 - Implemented in repo: `mkdocs.yml`, `docs/index.md`, `docs/contributing.md`, and `.github/workflows/pages.yml`.
-- Pending: enable Pages in repository settings and add live site badge in `README.md`.
+- Implemented in repo: automatic "Next step" and "Related pages" footer links for major docs pages.
+- Pending: enable Pages in repository settings.
 
 ## Why enable GitHub Pages
 

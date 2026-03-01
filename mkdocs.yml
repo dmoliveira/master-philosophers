@@ -58,3 +58,9 @@ nav:
       - Enrichment Roadmap: plan/enrichment-roadmap.md
 
 docs_dir: docs
+
+extra_css:
+  - stylesheets/auto-nav-footer.css
+
+extra_javascript:
+  - javascripts/auto-nav-footer.js
