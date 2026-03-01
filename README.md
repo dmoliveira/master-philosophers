@@ -44,6 +44,7 @@ If you want a full beginner launch path, use `docs/plan/week-zero-kickoff.md`.
 - Media watchlists by level: `docs/resources/media-watchlists.md`
 - Regional/language access alternatives: `docs/resources/access-alternatives.md`
 - Discussion prompt bank: `docs/resources/discussion-prompt-bank.md`
+- Timeline gallery: `docs/resources/timeline-gallery.md`
 - Argument cheat sheet: `docs/cheatsheets/argument-analysis-cheat-sheet.md`
 - Logic drills: `docs/cheatsheets/logic-drills.md`
 - One-page study sheet: `docs/cheatsheets/one-page-study-sheet.md`
@@ -60,11 +61,11 @@ Quick visual entry points to key thinkers:
 
 | Thinker | Portrait |
 |---|---|
-| Plato | [![Plato bust](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg/320px-Plato_Silanion_Musei_Capitolini_MC1377.jpg)](https://en.wikipedia.org/wiki/Plato) |
-| Aristotle | [![Aristotle bust](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Aristotle_Altemps_Inv8575.jpg/320px-Aristotle_Altemps_Inv8575.jpg)](https://en.wikipedia.org/wiki/Aristotle) |
-| Confucius | [![Confucius portrait](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Confucius_the_scholar.jpg/320px-Confucius_the_scholar.jpg)](https://en.wikipedia.org/wiki/Confucius) |
-| Augustine | [![Saint Augustine](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Saint_Augustine_by_Philippe_de_Champaigne.jpg/320px-Saint_Augustine_by_Philippe_de_Champaigne.jpg)](https://en.wikipedia.org/wiki/Augustine_of_Hippo) |
-| Karl Marx | [![Karl Marx portrait](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Karl_Marx_001.jpg/320px-Karl_Marx_001.jpg)](https://en.wikipedia.org/wiki/Karl_Marx) |
+| Plato | [![Plato bust](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/330px-Plato_Silanion_Musei_Capitolini_MC1377.png)](https://en.wikipedia.org/wiki/Plato) |
+| Aristotle | [![Aristotle bust](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/330px-Aristotle_Altemps_Inv8575.jpg)](https://en.wikipedia.org/wiki/Aristotle) |
+| Confucius | [![Confucius portrait](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/330px-Confucius_Tang_Dynasty.jpg)](https://en.wikipedia.org/wiki/Confucius) |
+| Augustine | [![Saint Augustine](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/330px-Saint_Augustine_by_Philippe_de_Champaigne.jpg)](https://en.wikipedia.org/wiki/Augustine_of_Hippo) |
+| Karl Marx | [![Karl Marx portrait](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored_%26_Adjusted_%283x4_cropped_b%29.png/330px-Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored_%26_Adjusted_%283x4_cropped_b%29.png)](https://en.wikipedia.org/wiki/Karl_Marx) |
 | Friedrich Nietzsche | [![Nietzsche portrait](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/320px-Nietzsche187a.jpg)](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) |
 
 Want the full map? Go to `docs/authors.md`.
@@ -83,6 +84,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/resources/media-watchlists.md`: beginner-to-advanced watch/listen tracks.
 - `docs/resources/access-alternatives.md`: region/language and low-bandwidth fallback guidance.
 - `docs/resources/discussion-prompt-bank.md`: leveled prompts for solo/group assessment.
+- `docs/resources/timeline-gallery.md`: period-by-period visual timeline pack.
 - `docs/cheatsheets/argument-analysis-cheat-sheet.md`: fast argument reading method.
 - `docs/cheatsheets/logic-drills.md`: short reasoning drills for weekly practice.
 - `docs/cheatsheets/one-page-study-sheet.md`: printable single-page study worksheet.
