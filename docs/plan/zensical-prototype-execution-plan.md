@@ -47,3 +47,4 @@ one full review pass confirms no onboarding regressions.
 ## Evidence log
 
 - Track each preview run in `docs/plan/zensical-prototype-preview-log.md`.
+- Use `docs/plan/zensical-prototype-ops-quick-ref.md` for routine execution commands.
