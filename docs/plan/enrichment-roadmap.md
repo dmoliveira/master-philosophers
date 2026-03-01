@@ -14,7 +14,7 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - [x] Pass 1: foundation setup (roadmap + first resource packs)
 - [x] Pass 2: refine beginner onboarding flow
 - [x] Pass 3: strengthen philosopher quick-map and progression logic
-- [ ] Pass 4: add logic and argument drill exercises
+- [x] Pass 4: add logic and argument drill exercises
 - [x] Pass 5: add documentary/video quality tags
 - [ ] Pass 6: add regional/language access alternatives
 - [ ] Pass 7: add exam/discussion prompt bank
@@ -43,6 +43,12 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - Expanded `docs/cheatsheets/philosopher-quick-map.md` with progression paths.
 - Added prerequisites and outcome-focused path guidance.
 - Added `docs/plan/progression-paths.md` with goal-based "what to read next" routes.
+
+### Pass 4
+
+- Added `docs/cheatsheets/logic-drills.md` with short daily practice units.
+- Added `docs/templates/objection-reply-lab.md` for weekly objection/reply work.
+- Updated weekly checklist and README links to surface the new practice tools.
 
 ## Continue Keyword
 
