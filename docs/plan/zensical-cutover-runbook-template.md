@@ -71,3 +71,4 @@ Readiness FAQ template: `docs/templates/zensical-migration-readiness-faq-templat
 Evidence bundle template: `docs/templates/zensical-migration-evidence-bundle-template.md`.
 Acceptance criteria template: `docs/templates/zensical-migration-acceptance-criteria-template.md`.
 Phase gate checklist template: `docs/templates/zensical-migration-phase-gate-checklist-template.md`.
+Quality gate template: `docs/templates/zensical-migration-quality-gate-template.md`.
