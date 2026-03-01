@@ -133,6 +133,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/templates/zensical-migration-risk-register-template.md`: risk tracking template for prototype, cutover, and rollback phases.
 - `docs/templates/zensical-migration-dependency-checklist.md`: dependency tracking checklist for tooling, content, process, and ownership.
 - `docs/templates/zensical-migration-stakeholder-signoff-template.md`: approval template for explicit go/no-go stakeholder decisions.
+- `docs/templates/zensical-migration-metrics-tracking-template.md`: template to track migration quality, stability, and trend outcomes.
 - `docs/templates/zensical-prototype-review-report.md`: template for recording each prototype review pass.
 - `docs/templates/zensical-prototype-handoff-checklist.md`: checklist for safe prototype handoff and next-step readiness.
 - `docs/templates/zensical-migration-readiness-decision-log.md`: formal decision gate log for migration readiness.
