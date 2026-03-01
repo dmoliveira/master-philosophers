@@ -28,3 +28,4 @@ Use these practical worksheets to structure your study sessions.
 - [Zensical migration KPI summary template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-kpi-summary-template.md)
 - [Zensical migration issue triage template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-issue-triage-template.md)
 - [Zensical migration escalation playbook template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-escalation-playbook-template.md)
+- [Zensical migration checkpoint report template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-checkpoint-report-template.md)
