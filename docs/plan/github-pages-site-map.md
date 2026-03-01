@@ -7,6 +7,7 @@ to browse, search, and share.
 
 - Implemented in repo: `mkdocs.yml`, `docs/index.md`, `docs/contributing.md`, and `.github/workflows/pages.yml`.
 - Implemented in repo: automatic "Next step" and "Related pages" footer links for major docs pages.
+- Implemented in repo: expanded footer coverage across onboarding, resource, and drill pages.
 - Pending: enable Pages in repository settings.
 
 ## Why enable GitHub Pages
