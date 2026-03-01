@@ -46,6 +46,7 @@ nav:
       - Zensical Cutover Runbook: plan/zensical-cutover-runbook-template.md
       - Zensical Post-Cutover Verification: plan/zensical-post-cutover-verification-checklist.md
       - Zensical Rollback Verification: plan/zensical-rollback-verification-checklist.md
+      - Zensical Lessons Learned Index: plan/zensical-migration-lessons-learned-index.md
   - Resources:
       - Learning Resources: resources/learning-resources.md
       - Media Watchlists: resources/media-watchlists.md
