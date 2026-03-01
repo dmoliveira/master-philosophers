@@ -51,6 +51,8 @@ nav:
       - Core Book Reviews: reviews/core-book-reviews.md
       - Reading Streak: stats/reading-streak.md
       - Pages Rollout Plan: plan/github-pages-site-map.md
+  - Releases:
+      - v0.5.0: releases/v0.5.0.md
   - Timeline:
       - Timeline Gallery: resources/timeline-gallery.md
   - Contributing:

@@ -118,6 +118,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/templates/objection-reply-lab.md`: focused objection/reply practice worksheet.
 - `docs/templates/exam-response-template.md`: concise structure for written prompt answers.
 - `docs/specs/edition-selection-spec.md`: rules for choosing editions and upgrades.
+- `docs/releases/v0.5.0.md`: release notes for Pages rollout, onboarding, and navigation updates.
 - `docs/stats/reading-streak.md`: weekly check-in log and streak badge source.
 - `Influential_Philosophers_Reading_Plan.md`: quick index for the reading flow.
 - `CONTRIBUTING.md`: contribution and curation rules.
