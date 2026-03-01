@@ -32,6 +32,8 @@ Use this runbook during the migration cutover window.
 - [ ] Key docs links resolve.
 - [ ] Mobile navigation remains usable.
 
+Detailed verification template: `docs/plan/zensical-post-cutover-verification-checklist.md`.
+
 ## Phase 4 - Rollback decision gate
 
 - [ ] Critical issues present? yes/no
