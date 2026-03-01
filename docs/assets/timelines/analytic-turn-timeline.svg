@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 220" role="img" aria-labelledby="title desc">
+  <title id="title">Analytic Turn Timeline</title>
+  <desc id="desc">Timeline of analytic philosophy development from 1850 to 1950.</desc>
+  <rect width="1100" height="220" fill="#f8fafc" />
+  <text x="40" y="36" font-family="Georgia, serif" font-size="28" fill="#0f172a">Analytic Turn</text>
+  <text x="40" y="58" font-family="Trebuchet MS, sans-serif" font-size="14" fill="#334155">Approx. 1850 to 1950</text>
+
+  <line x1="70" y1="130" x2="1030" y2="130" stroke="#22c55e" stroke-width="6" stroke-linecap="round" />
+
+  <g font-family="Trebuchet MS, sans-serif" font-size="14" fill="#0f172a" text-anchor="middle">
+    <circle cx="270" cy="130" r="10" fill="#16a34a" />
+    <text x="270" y="105">Frege</text>
+    <text x="270" y="154">1848-1925</text>
+
+    <circle cx="490" cy="130" r="10" fill="#16a34a" />
+    <text x="490" y="105">Russell</text>
+    <text x="490" y="154">1872-1970</text>
+
+    <circle cx="710" cy="130" r="10" fill="#16a34a" />
+    <text x="710" y="105">Wittgenstein</text>
+    <text x="710" y="154">1889-1951</text>
+  </g>
+</svg>

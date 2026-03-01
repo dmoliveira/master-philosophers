@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 220" role="img" aria-labelledby="title desc">
+  <title id="title">Early Modern Timeline</title>
+  <desc id="desc">Timeline of major early modern philosophers from 1500 to 1800.</desc>
+  <rect width="1100" height="220" fill="#f8fafc" />
+  <text x="40" y="36" font-family="Georgia, serif" font-size="28" fill="#0f172a">Early Modern Debates</text>
+  <text x="40" y="58" font-family="Trebuchet MS, sans-serif" font-size="14" fill="#334155">Approx. 1500 to 1800</text>
+
+  <line x1="70" y1="130" x2="1030" y2="130" stroke="#14b8a6" stroke-width="6" stroke-linecap="round" />
+
+  <g font-family="Trebuchet MS, sans-serif" font-size="14" fill="#0f172a" text-anchor="middle">
+    <circle cx="220" cy="130" r="10" fill="#0f766e" />
+    <text x="220" y="105">Descartes</text>
+    <text x="220" y="154">1596-1650</text>
+
+    <circle cx="330" cy="130" r="10" fill="#0f766e" />
+    <text x="330" y="105">Hobbes</text>
+    <text x="330" y="154">1588-1679</text>
+
+    <circle cx="460" cy="130" r="10" fill="#0f766e" />
+    <text x="460" y="105">Spinoza</text>
+    <text x="460" y="154">1632-1677</text>
+
+    <circle cx="580" cy="130" r="10" fill="#0f766e" />
+    <text x="580" y="105">Locke</text>
+    <text x="580" y="154">1632-1704</text>
+
+    <circle cx="720" cy="130" r="10" fill="#0f766e" />
+    <text x="720" y="105">Hume</text>
+    <text x="720" y="154">1711-1776</text>
+
+    <circle cx="850" cy="130" r="10" fill="#0f766e" />
+    <text x="850" y="105">Rousseau</text>
+    <text x="850" y="154">1712-1778</text>
+
+    <circle cx="970" cy="130" r="10" fill="#0f766e" />
+    <text x="970" y="105">Kant</text>
+    <text x="970" y="154">1724-1804</text>
+  </g>
+</svg>
