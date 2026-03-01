@@ -24,6 +24,7 @@ exclude_docs: |
 
 nav:
   - Home: index.md
+  - How to Use This Site: how-to-use-this-site.md
   - Start Here:
       - Authors Map: authors.md
       - Book Guide: books.md
