@@ -63,3 +63,4 @@ KPI summary template: `docs/templates/zensical-migration-kpi-summary-template.md
 Issue triage template: `docs/templates/zensical-migration-issue-triage-template.md`.
 Escalation playbook: `docs/templates/zensical-migration-escalation-playbook-template.md`.
 Checkpoint report template: `docs/templates/zensical-migration-checkpoint-report-template.md`.
+Ownership matrix template: `docs/templates/zensical-migration-ownership-matrix-template.md`.
