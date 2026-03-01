@@ -18,7 +18,7 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - [x] Pass 5: add documentary/video quality tags
 - [x] Pass 6: add regional/language access alternatives
 - [x] Pass 7: add exam/discussion prompt bank
-- [ ] Pass 8: add printable one-page study sheet versions
+- [x] Pass 8: add printable one-page study sheet versions
 - [ ] Pass 9: add timeline visuals for all major periods
 - [ ] Pass 10: run clarity sweep for all docs
 - [ ] Pass 11: run source freshness sweep for external links
@@ -61,6 +61,12 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - Added `docs/resources/discussion-prompt-bank.md` with tiered prompts.
 - Added `docs/templates/exam-response-template.md` for structured written answers.
 - Linked new prompt assets in README and review notes page.
+
+### Pass 8
+
+- Added `docs/cheatsheets/one-page-study-sheet.md` for printable weekly use.
+- Added `docs/cheatsheets/thinker-comparison-sheet.md` for quick pair analysis.
+- Linked printable sheets in README study hub and repository index.
 
 ## Continue Keyword
 
