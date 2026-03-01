@@ -18,6 +18,8 @@ without disrupting the current production docs site.
 3. Add a separate preview workflow (do not replace current Pages workflow yet).
 4. Publish preview artifact and URL for review.
 
+Detailed bootstrap sequence: `docs/plan/zensical-prototype-bootstrap-plan.md`.
+
 ## Implementation checklist
 
 - [ ] Mirror top-level information architecture from current nav.
