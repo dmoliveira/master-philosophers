@@ -121,6 +121,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/plan/zensical-prototype-preview-log.md`: recorded preview runs and status evidence.
 - `docs/plan/zensical-config-migration-checklist.md`: configuration migration checklist for prototype readiness.
 - `docs/plan/zensical-prototype-ops-quick-ref.md`: quick command reference for prototype branch operations.
+- `docs/plan/zensical-migration-command-cheat-sheet.md`: end-to-end command sheet for branch, validation, PR, and cleanup steps.
 - `docs/plan/zensical-prototype-status-dashboard.md`: current readiness snapshot and next priorities.
 - `docs/plan/zensical-prototype-readiness-rubric.md`: weighted readiness scoring for migration decision gates.
 - `docs/plan/zensical-migration-readiness-checklist-index.md`: central index of readiness, preflight, verification, and rollback checklists.
