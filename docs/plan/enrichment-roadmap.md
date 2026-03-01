@@ -22,7 +22,7 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - [x] Pass 9: add timeline visuals for all major periods
 - [x] Pass 10: run clarity sweep for all docs
 - [x] Pass 11: run source freshness sweep for external links
-- [ ] Pass 12: final usability and polish pass
+- [x] Pass 12: final usability and polish pass
 
 ## Pass Log
 
@@ -85,6 +85,12 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - Ran external-source freshness sweep across core resource docs.
 - Added `docs/resources/source-freshness-log.md` with verification results.
 - Linked freshness log in README and learning resources maintenance section.
+
+### Pass 12
+
+- Added `docs/resources/navigation-map.md` for goal-based entry navigation.
+- Added a `Choose by Goal` section in README for faster onboarding.
+- Linked navigation map in study hub and repository index for discoverability.
 
 ## Future Backlog
 
