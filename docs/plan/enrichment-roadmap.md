@@ -16,7 +16,7 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - [x] Pass 3: strengthen philosopher quick-map and progression logic
 - [x] Pass 4: add logic and argument drill exercises
 - [x] Pass 5: add documentary/video quality tags
-- [ ] Pass 6: add regional/language access alternatives
+- [x] Pass 6: add regional/language access alternatives
 - [ ] Pass 7: add exam/discussion prompt bank
 - [ ] Pass 8: add printable one-page study sheet versions
 - [ ] Pass 9: add timeline visuals for all major periods
@@ -26,7 +26,7 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 
 ## Pass Log
 
-### Pass 1 (current)
+### Pass 1
 
 - Added a roadmap to structure multi-pass execution.
 - Added initial resource hub and cheat sheets.
@@ -49,6 +49,12 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - Added `docs/cheatsheets/logic-drills.md` with short daily practice units.
 - Added `docs/templates/objection-reply-lab.md` for weekly objection/reply work.
 - Updated weekly checklist and README links to surface the new practice tools.
+
+### Pass 6
+
+- Added `docs/resources/access-alternatives.md` for regional/language fallback paths.
+- Added low-bandwidth and offline-first guidance.
+- Linked access alternatives in README and learning resource hub.
 
 ## Continue Keyword
 

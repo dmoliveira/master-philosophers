@@ -9,6 +9,7 @@ Use this page as the "where do I go next?" map for trusted study material.
 3. Add one `Documentary/Audio` source for context and retention.
 4. Track your weekly output in `docs/reviews/core-book-reviews.md`.
 5. Use `docs/resources/media-watchlists.md` for level-based media picks.
+6. Use `docs/resources/access-alternatives.md` for region/language fallback paths.
 
 ## Foundational Reference (High Reliability)
 
