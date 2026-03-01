@@ -39,3 +39,4 @@ Workflow scaffold path: `.github/workflows/zensical-preview.yml`.
 - Prototype branch URL.
 - Latest successful preview run URL.
 - Completed parity checklist reference.
+- Preview run history log: `docs/plan/zensical-prototype-preview-log.md`.
