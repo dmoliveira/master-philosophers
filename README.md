@@ -121,6 +121,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/plan/zensical-prototype-preview-log.md`: recorded preview runs and status evidence.
 - `docs/plan/zensical-config-migration-checklist.md`: configuration migration checklist for prototype readiness.
 - `docs/plan/zensical-prototype-ops-quick-ref.md`: quick command reference for prototype branch operations.
+- `docs/templates/zensical-prototype-review-report.md`: template for recording each prototype review pass.
 - `.github/workflows/zensical-preview.yml`: preview artifact workflow scaffold for the `zensical-prototype` branch.
 - `docs/templates/weekly-study-checklist.md`: reusable weekly execution template.
 - `docs/templates/objection-reply-lab.md`: focused objection/reply practice worksheet.
