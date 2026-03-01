@@ -42,6 +42,7 @@ If you want a full beginner launch path, use `docs/plan/week-zero-kickoff.md`.
 
 - Learning resources hub: `docs/resources/learning-resources.md`
 - Media watchlists by level: `docs/resources/media-watchlists.md`
+- Regional/language access alternatives: `docs/resources/access-alternatives.md`
 - Argument cheat sheet: `docs/cheatsheets/argument-analysis-cheat-sheet.md`
 - Logic drills: `docs/cheatsheets/logic-drills.md`
 - Philosopher quick map: `docs/cheatsheets/philosopher-quick-map.md`
@@ -77,6 +78,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/reviews/core-book-reviews.md`: short reading notes and practical review prompts.
 - `docs/resources/learning-resources.md`: curated reference links, courses, and media.
 - `docs/resources/media-watchlists.md`: beginner-to-advanced watch/listen tracks.
+- `docs/resources/access-alternatives.md`: region/language and low-bandwidth fallback guidance.
 - `docs/cheatsheets/argument-analysis-cheat-sheet.md`: fast argument reading method.
 - `docs/cheatsheets/logic-drills.md`: short reasoning drills for weekly practice.
 - `docs/cheatsheets/philosopher-quick-map.md`: one-glance map of thinkers and lanes.
