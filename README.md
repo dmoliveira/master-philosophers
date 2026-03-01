@@ -72,6 +72,7 @@ Quick visual entry points to key thinkers:
 | Thinker | Portrait |
 |---|---|
 | Plato | [![Plato bust](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/330px-Plato_Silanion_Musei_Capitolini_MC1377.png)](https://en.wikipedia.org/wiki/Plato) |
+| Socrates | [![Socrates bust](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/330px-Socrates_Louvre.jpg)](https://en.wikipedia.org/wiki/Socrates) |
 | Aristotle | [![Aristotle bust](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/330px-Aristotle_Altemps_Inv8575.jpg)](https://en.wikipedia.org/wiki/Aristotle) |
 | Confucius | [![Confucius portrait](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/330px-Confucius_Tang_Dynasty.jpg)](https://en.wikipedia.org/wiki/Confucius) |
 | Augustine | [![Saint Augustine](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/330px-Saint_Augustine_by_Philippe_de_Champaigne.jpg)](https://en.wikipedia.org/wiki/Augustine_of_Hippo) |
