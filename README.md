@@ -140,6 +140,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/templates/zensical-migration-issue-triage-template.md`: triage worksheet for severity, routing, and verification planning.
 - `docs/templates/zensical-migration-escalation-playbook-template.md`: incident escalation playbook for migration disruptions.
 - `docs/templates/zensical-migration-checkpoint-report-template.md`: periodic checkpoint report for progress, risks, and decisions.
+- `docs/templates/zensical-migration-ownership-matrix-template.md`: RACI-style ownership matrix for migration workstreams.
 - `docs/templates/zensical-prototype-review-report.md`: template for recording each prototype review pass.
 - `docs/templates/zensical-prototype-handoff-checklist.md`: checklist for safe prototype handoff and next-step readiness.
 - `docs/templates/zensical-migration-readiness-decision-log.md`: formal decision gate log for migration readiness.
