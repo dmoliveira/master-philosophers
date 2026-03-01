@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 220" role="img" aria-labelledby="title desc">
+  <title id="title">Classical Foundations Timeline</title>
+  <desc id="desc">Timeline showing major classical philosophers from 600 BCE to 200 CE.</desc>
+  <rect width="1100" height="220" fill="#f8fafc" />
+  <text x="40" y="36" font-family="Georgia, serif" font-size="28" fill="#0f172a">Classical Foundations</text>
+  <text x="40" y="58" font-family="Trebuchet MS, sans-serif" font-size="14" fill="#334155">Approx. 600 BCE to 200 CE</text>
+
+  <line x1="70" y1="130" x2="1030" y2="130" stroke="#1d4ed8" stroke-width="6" stroke-linecap="round" />
+
+  <g font-family="Trebuchet MS, sans-serif" font-size="14" fill="#0f172a" text-anchor="middle">
+    <circle cx="210" cy="130" r="10" fill="#2563eb" />
+    <text x="210" y="105">Confucius</text>
+    <text x="210" y="154">551-479 BCE</text>
+
+    <circle cx="420" cy="130" r="10" fill="#2563eb" />
+    <text x="420" y="105">Plato</text>
+    <text x="420" y="154">428-347 BCE</text>
+
+    <circle cx="520" cy="130" r="10" fill="#2563eb" />
+    <text x="520" y="105">Aristotle</text>
+    <text x="520" y="154">384-322 BCE</text>
+
+    <circle cx="640" cy="130" r="10" fill="#2563eb" />
+    <text x="640" y="105">Epicurus</text>
+    <text x="640" y="154">341-270 BCE</text>
+
+    <circle cx="790" cy="130" r="10" fill="#2563eb" />
+    <text x="790" y="105">Epictetus</text>
+    <text x="790" y="154">c. 50-135 CE</text>
+
+    <circle cx="930" cy="130" r="10" fill="#2563eb" />
+    <text x="930" y="105">M. Aurelius</text>
+    <text x="930" y="154">121-180 CE</text>
+  </g>
+</svg>

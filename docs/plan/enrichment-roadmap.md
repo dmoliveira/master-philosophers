@@ -19,7 +19,7 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - [x] Pass 6: add regional/language access alternatives
 - [x] Pass 7: add exam/discussion prompt bank
 - [x] Pass 8: add printable one-page study sheet versions
-- [ ] Pass 9: add timeline visuals for all major periods
+- [x] Pass 9: add timeline visuals for all major periods
 - [ ] Pass 10: run clarity sweep for all docs
 - [ ] Pass 11: run source freshness sweep for external links
 - [ ] Pass 12: final usability and polish pass
@@ -67,6 +67,17 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - Added `docs/cheatsheets/one-page-study-sheet.md` for printable weekly use.
 - Added `docs/cheatsheets/thinker-comparison-sheet.md` for quick pair analysis.
 - Linked printable sheets in README study hub and repository index.
+
+### Pass 9
+
+- Added five period-specific timeline visuals in `docs/assets/timelines/`.
+- Added `docs/resources/timeline-gallery.md` to centralize visual navigation.
+- Fixed broken README portrait URLs using stable Wikipedia summary thumbnails.
+
+## Future Backlog
+
+- Wiki enablement completed at repo level.
+- Planned next implementation: port key docs to wiki with navigation-first structure for study journeys.
 
 ## Continue Keyword
 
