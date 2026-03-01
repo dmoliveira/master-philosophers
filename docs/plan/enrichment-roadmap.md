@@ -17,7 +17,7 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - [x] Pass 4: add logic and argument drill exercises
 - [x] Pass 5: add documentary/video quality tags
 - [x] Pass 6: add regional/language access alternatives
-- [ ] Pass 7: add exam/discussion prompt bank
+- [x] Pass 7: add exam/discussion prompt bank
 - [ ] Pass 8: add printable one-page study sheet versions
 - [ ] Pass 9: add timeline visuals for all major periods
 - [ ] Pass 10: run clarity sweep for all docs
@@ -55,6 +55,12 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - Added `docs/resources/access-alternatives.md` for regional/language fallback paths.
 - Added low-bandwidth and offline-first guidance.
 - Linked access alternatives in README and learning resource hub.
+
+### Pass 7
+
+- Added `docs/resources/discussion-prompt-bank.md` with tiered prompts.
+- Added `docs/templates/exam-response-template.md` for structured written answers.
+- Linked new prompt assets in README and review notes page.
 
 ## Continue Keyword
 

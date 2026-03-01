@@ -43,6 +43,7 @@ If you want a full beginner launch path, use `docs/plan/week-zero-kickoff.md`.
 - Learning resources hub: `docs/resources/learning-resources.md`
 - Media watchlists by level: `docs/resources/media-watchlists.md`
 - Regional/language access alternatives: `docs/resources/access-alternatives.md`
+- Discussion prompt bank: `docs/resources/discussion-prompt-bank.md`
 - Argument cheat sheet: `docs/cheatsheets/argument-analysis-cheat-sheet.md`
 - Logic drills: `docs/cheatsheets/logic-drills.md`
 - Philosopher quick map: `docs/cheatsheets/philosopher-quick-map.md`
@@ -79,6 +80,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/resources/learning-resources.md`: curated reference links, courses, and media.
 - `docs/resources/media-watchlists.md`: beginner-to-advanced watch/listen tracks.
 - `docs/resources/access-alternatives.md`: region/language and low-bandwidth fallback guidance.
+- `docs/resources/discussion-prompt-bank.md`: leveled prompts for solo/group assessment.
 - `docs/cheatsheets/argument-analysis-cheat-sheet.md`: fast argument reading method.
 - `docs/cheatsheets/logic-drills.md`: short reasoning drills for weekly practice.
 - `docs/cheatsheets/philosopher-quick-map.md`: one-glance map of thinkers and lanes.
@@ -88,6 +90,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/plan/enrichment-roadmap.md`: multi-pass content expansion tracker.
 - `docs/templates/weekly-study-checklist.md`: reusable weekly execution template.
 - `docs/templates/objection-reply-lab.md`: focused objection/reply practice worksheet.
+- `docs/templates/exam-response-template.md`: concise structure for written prompt answers.
 - `docs/specs/edition-selection-spec.md`: rules for choosing editions and upgrades.
 - `docs/stats/reading-streak.md`: weekly check-in log and streak badge source.
 - `Influential_Philosophers_Reading_Plan.md`: quick index for the reading flow.
