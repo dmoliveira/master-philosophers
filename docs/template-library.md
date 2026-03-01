@@ -13,3 +13,7 @@ Use these practical worksheets to structure your study sessions.
 ## Written assessments
 
 - [Exam response template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/exam-response-template.md)
+
+## Prototype review
+
+- [Zensical prototype review report](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-prototype-review-report.md)
