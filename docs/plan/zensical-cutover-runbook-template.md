@@ -61,3 +61,4 @@ Dependency checklist: `docs/templates/zensical-migration-dependency-checklist.md
 Metrics template: `docs/templates/zensical-migration-metrics-tracking-template.md`.
 KPI summary template: `docs/templates/zensical-migration-kpi-summary-template.md`.
 Issue triage template: `docs/templates/zensical-migration-issue-triage-template.md`.
+Escalation playbook: `docs/templates/zensical-migration-escalation-playbook-template.md`.
