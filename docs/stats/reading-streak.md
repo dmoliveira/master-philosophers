@@ -5,7 +5,7 @@ Use this page to keep the README streak badge honest and useful.
 ## How to Update
 
 1. Count your current consecutive study weeks.
-2. Update `docs/stats/reading-streak-badge.json` message (for example: `4 weeks`).
+2. Run `make streak weeks=<n>` (for example: `make streak weeks=4`).
 3. Add one short check-in line to the log below.
 4. Commit the change so the badge updates on `main`.
 
