@@ -123,6 +123,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/plan/zensical-prototype-ops-quick-ref.md`: quick command reference for prototype branch operations.
 - `docs/plan/zensical-prototype-status-dashboard.md`: current readiness snapshot and next priorities.
 - `docs/plan/zensical-prototype-readiness-rubric.md`: weighted readiness scoring for migration decision gates.
+- `docs/plan/zensical-migration-readiness-checklist-index.md`: central index of readiness, preflight, verification, and rollback checklists.
 - `docs/plan/zensical-cutover-preflight-checklist.md`: final go/no-go checklist before migration cutover.
 - `docs/plan/zensical-cutover-runbook-template.md`: runbook template for live cutover execution and rollback decisions.
 - `docs/plan/zensical-post-cutover-verification-checklist.md`: production verification checklist for immediately after cutover.
