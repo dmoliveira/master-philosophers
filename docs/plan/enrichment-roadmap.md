@@ -13,7 +13,7 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 
 - [x] Pass 1: foundation setup (roadmap + first resource packs)
 - [x] Pass 2: refine beginner onboarding flow
-- [ ] Pass 3: strengthen philosopher quick-map and progression logic
+- [x] Pass 3: strengthen philosopher quick-map and progression logic
 - [ ] Pass 4: add logic and argument drill exercises
 - [x] Pass 5: add documentary/video quality tags
 - [ ] Pass 6: add regional/language access alternatives
@@ -37,6 +37,12 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - Added `docs/plan/week-zero-kickoff.md` for a beginner-friendly start flow.
 - Added `docs/resources/media-watchlists.md` with beginner/intermediate/advanced tracks.
 - Linked onboarding and watchlists in README and resource hub.
+
+### Pass 3
+
+- Expanded `docs/cheatsheets/philosopher-quick-map.md` with progression paths.
+- Added prerequisites and outcome-focused path guidance.
+- Added `docs/plan/progression-paths.md` with goal-based "what to read next" routes.
 
 ## Continue Keyword
 

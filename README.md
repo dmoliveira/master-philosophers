@@ -44,6 +44,7 @@ If you want a full beginner launch path, use `docs/plan/week-zero-kickoff.md`.
 - Media watchlists by level: `docs/resources/media-watchlists.md`
 - Argument cheat sheet: `docs/cheatsheets/argument-analysis-cheat-sheet.md`
 - Philosopher quick map: `docs/cheatsheets/philosopher-quick-map.md`
+- Progression paths: `docs/plan/progression-paths.md`
 - Enrichment roadmap and pass tracking: `docs/plan/enrichment-roadmap.md`
 
 ![Philosophy Timeline](docs/assets/philosophy-timeline.svg)
@@ -79,6 +80,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/cheatsheets/philosopher-quick-map.md`: one-glance map of thinkers and lanes.
 - `docs/plan/study-plans.md`: structured 6-month and 12-month plans.
 - `docs/plan/week-zero-kickoff.md`: first-session onboarding path for new learners.
+- `docs/plan/progression-paths.md`: clear "what to read next" routes by goal.
 - `docs/plan/enrichment-roadmap.md`: multi-pass content expansion tracker.
 - `docs/templates/weekly-study-checklist.md`: reusable weekly execution template.
 - `docs/specs/edition-selection-spec.md`: rules for choosing editions and upgrades.

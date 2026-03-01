@@ -2,6 +2,15 @@
 
 This is a one-glance map of major thinkers, their lane, and why they matter.
 
+## Fast Progression Paths
+
+- Foundations first: Plato -> Aristotle -> Confucius
+- Ethics and self-mastery: Epicurus -> Epictetus -> Marcus Aurelius
+- Faith and reason bridge: Augustine -> Avicenna -> Maimonides -> Aquinas
+- State and legitimacy: Hobbes -> Locke -> Rousseau -> Mill
+- Critique path: Hume -> Marx -> Nietzsche
+- Logic and language path: Aristotle -> Frege -> Russell -> Wittgenstein
+
 ## Classical and Early Foundations
 
 - Plato -> justice, forms, education, political order
@@ -48,3 +57,22 @@ Use this quick tagging in your notes:
 - `E`: Ethics and value
 - `P`: Political and social theory
 - `L`: Logic and language
+
+## Prerequisite Guide (Practical)
+
+| If you want to read | Read first |
+|---|---|
+| Kant | Hume + Rousseau |
+| Hegel | Kant |
+| Marx | Hegel + Smith basics |
+| Nietzsche | Plato basics + Kant basics |
+| Frege | Aristotle logic basics |
+| Wittgenstein | Frege + Russell |
+
+## Outcome Focus by Path
+
+- Foundations path -> build shared vocabulary and canonical questions.
+- Ethics path -> improve practical reflection and habit-level reasoning.
+- Political path -> compare authority, rights, freedom, and institutions.
+- Critique path -> test assumptions behind morality, economy, and culture.
+- Logic path -> strengthen precision in arguments and definitions.
