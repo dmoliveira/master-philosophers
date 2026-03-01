@@ -8,6 +8,7 @@ Use this page as the "where do I go next?" map for trusted study material.
 2. Pick one `Lecture/Course` for structured learning.
 3. Add one `Documentary/Audio` source for context and retention.
 4. Track your weekly output in `docs/reviews/core-book-reviews.md`.
+5. Use `docs/resources/media-watchlists.md` for level-based media picks.
 
 ## Foundational Reference (High Reliability)
 
