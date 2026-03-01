@@ -53,3 +53,5 @@ If rollback is triggered, run: `docs/plan/zensical-rollback-verification-checkli
 - [ ] Cutover successful
 - [ ] Rollback executed
 - [ ] Follow-up action items logged
+
+Postmortem template: `docs/templates/zensical-migration-postmortem-template.md`.
