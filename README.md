@@ -114,6 +114,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/plan/progression-paths.md`: clear "what to read next" routes by goal.
 - `docs/plan/enrichment-roadmap.md`: multi-pass content expansion tracker.
 - `docs/plan/github-pages-site-map.md`: proposal to publish and link all docs on GitHub Pages.
+- `docs/plan/zensical-migration-evaluation.md`: phased evaluation and cutover criteria for generator migration.
 - `docs/templates/weekly-study-checklist.md`: reusable weekly execution template.
 - `docs/templates/objection-reply-lab.md`: focused objection/reply practice worksheet.
 - `docs/templates/exam-response-template.md`: concise structure for written prompt answers.
