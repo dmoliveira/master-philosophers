@@ -45,6 +45,7 @@ If you want a full beginner launch path, use `docs/plan/week-zero-kickoff.md`.
 - Better argument skills: `docs/cheatsheets/logic-drills.md`
 - Media-first learning: `docs/resources/media-watchlists.md`
 - Full route map: `docs/resources/navigation-map.md`
+- Website rollout proposal: `docs/plan/github-pages-site-map.md`
 
 ## Study Hub Extensions 🧰
 
@@ -62,6 +63,7 @@ If you want a full beginner launch path, use `docs/plan/week-zero-kickoff.md`.
 - Philosopher quick map: `docs/cheatsheets/philosopher-quick-map.md`
 - Progression paths: `docs/plan/progression-paths.md`
 - Enrichment roadmap and pass tracking: `docs/plan/enrichment-roadmap.md`
+- GitHub Pages site map proposal: `docs/plan/github-pages-site-map.md`
 
 ![Philosophy Timeline](docs/assets/philosophy-timeline.svg)
 
@@ -107,6 +109,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/plan/week-zero-kickoff.md`: first-session onboarding path for new learners.
 - `docs/plan/progression-paths.md`: clear "what to read next" routes by goal.
 - `docs/plan/enrichment-roadmap.md`: multi-pass content expansion tracker.
+- `docs/plan/github-pages-site-map.md`: proposal to publish and link all docs on GitHub Pages.
 - `docs/templates/weekly-study-checklist.md`: reusable weekly execution template.
 - `docs/templates/objection-reply-lab.md`: focused objection/reply practice worksheet.
 - `docs/templates/exam-response-template.md`: concise structure for written prompt answers.
