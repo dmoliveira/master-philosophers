@@ -21,7 +21,7 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - [x] Pass 8: add printable one-page study sheet versions
 - [x] Pass 9: add timeline visuals for all major periods
 - [x] Pass 10: run clarity sweep for all docs
-- [ ] Pass 11: run source freshness sweep for external links
+- [x] Pass 11: run source freshness sweep for external links
 - [ ] Pass 12: final usability and polish pass
 
 ## Pass Log
@@ -79,6 +79,12 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - Added clearer quick-choice cues in `docs/plan/study-plans.md`.
 - Added fast-start and maintenance guidance in `docs/resources/learning-resources.md`.
 - Added a starter reading sequence in `docs/reviews/core-book-reviews.md`.
+
+### Pass 11
+
+- Ran external-source freshness sweep across core resource docs.
+- Added `docs/resources/source-freshness-log.md` with verification results.
+- Linked freshness log in README and learning resources maintenance section.
 
 ## Future Backlog
 
