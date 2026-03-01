@@ -42,3 +42,7 @@ make docs-site-check
 
 - Append each run result to `docs/plan/zensical-prototype-preview-log.md`.
 - Keep branch and run URLs in the task/PR summary.
+
+## Related quick reference
+
+- `docs/plan/zensical-migration-command-cheat-sheet.md`
