@@ -1,0 +1,49 @@
+# Zensical Cutover Runbook Template
+
+Use this runbook during the migration cutover window.
+
+## Run metadata
+
+- Date:
+- Run owner:
+- Migration PR:
+- Rollback owner:
+- Communication channel:
+
+## Phase 1 - Pre-cutover checks
+
+- [ ] Preflight checklist completed.
+- [ ] Latest preview and validation checks are green.
+- [ ] Decision log approved for cutover.
+- [ ] Rollback instructions verified.
+
+## Phase 2 - Cutover execution
+
+1. Merge migration PR.
+2. Confirm deploy workflow starts.
+3. Confirm deploy workflow succeeds.
+4. Verify live docs URL availability.
+
+## Phase 3 - Post-cutover verification
+
+- [ ] Home page loads.
+- [ ] Core navigation routes load.
+- [ ] Search works on key terms.
+- [ ] Key docs links resolve.
+- [ ] Mobile navigation remains usable.
+
+## Phase 4 - Rollback decision gate
+
+- [ ] Critical issues present? yes/no
+- [ ] Rollback triggered? yes/no
+- [ ] If rollback: record reason and timestamp.
+
+## Incident notes
+
+-
+
+## Final status
+
+- [ ] Cutover successful
+- [ ] Rollback executed
+- [ ] Follow-up action items logged
