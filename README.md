@@ -130,6 +130,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/plan/zensical-migration-lessons-learned-index.md`: reusable migration lessons with evidence and prevention notes.
 - `docs/templates/zensical-cutover-communication-template.md`: standardized communication messages for cutover updates.
 - `docs/templates/zensical-migration-postmortem-template.md`: post-run review template for lessons learned and remediations.
+- `docs/templates/zensical-migration-risk-register-template.md`: risk tracking template for prototype, cutover, and rollback phases.
 - `docs/templates/zensical-prototype-review-report.md`: template for recording each prototype review pass.
 - `docs/templates/zensical-prototype-handoff-checklist.md`: checklist for safe prototype handoff and next-step readiness.
 - `docs/templates/zensical-migration-readiness-decision-log.md`: formal decision gate log for migration readiness.
