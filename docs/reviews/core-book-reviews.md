@@ -153,3 +153,8 @@ Strongest objection:
 Modern application (1 paragraph):
 Re-read priority (Low/Med/High):
 ```
+
+For discussion or assessment practice, also use:
+
+- `docs/resources/discussion-prompt-bank.md`
+- `docs/templates/exam-response-template.md`
