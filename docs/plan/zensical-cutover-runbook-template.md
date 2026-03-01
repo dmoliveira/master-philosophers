@@ -56,3 +56,4 @@ If rollback is triggered, run: `docs/plan/zensical-rollback-verification-checkli
 
 Postmortem template: `docs/templates/zensical-migration-postmortem-template.md`.
 Lessons index: `docs/plan/zensical-migration-lessons-learned-index.md`.
+Risk register: `docs/templates/zensical-migration-risk-register-template.md`.

@@ -21,3 +21,4 @@ Use these practical worksheets to structure your study sessions.
 - [Zensical migration readiness decision log](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-readiness-decision-log.md)
 - [Zensical cutover communication template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-cutover-communication-template.md)
 - [Zensical migration postmortem template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-postmortem-template.md)
+- [Zensical migration risk register template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-risk-register-template.md)
