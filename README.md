@@ -1,11 +1,15 @@
 # Master Philosophers 🧠📚
 
+![Master Philosophers Hero](docs/assets/hero-banner.svg)
+
 [![Docs Quality Checks](https://github.com/dmoliveira/master-philosophers/actions/workflows/docs-links.yml/badge.svg)](https://github.com/dmoliveira/master-philosophers/actions/workflows/docs-links.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/dmoliveira/master-philosophers)](https://github.com/dmoliveira/master-philosophers/commits/main)
 [![Open Issues](https://img.shields.io/github/issues/dmoliveira/master-philosophers)](https://github.com/dmoliveira/master-philosophers/issues)
 [![Stars](https://img.shields.io/github/stars/dmoliveira/master-philosophers?style=social)](https://github.com/dmoliveira/master-philosophers/stargazers)
 [![Study Tracks](https://img.shields.io/badge/Study%20Tracks-6%20%26%2012%20months-1f6feb)](docs/plan/study-plans.md)
+[![Reading Streak](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/dmoliveira/master-philosophers/main/docs/stats/reading-streak-badge.json)](docs/stats/reading-streak.md)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 A practical learning space for anyone who wants to think more clearly by
 studying great philosophers, logic traditions, big questions, and argument
@@ -58,6 +62,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/plan/study-plans.md`: structured 6-month and 12-month plans.
 - `docs/templates/weekly-study-checklist.md`: reusable weekly execution template.
 - `docs/specs/edition-selection-spec.md`: rules for choosing editions and upgrades.
+- `docs/stats/reading-streak.md`: weekly check-in log and streak badge source.
 - `Influential_Philosophers_Reading_Plan.md`: quick index for the reading flow.
 - `CONTRIBUTING.md`: contribution and curation rules.
 
