@@ -42,3 +42,7 @@ Preview workflow scaffold: `.github/workflows/zensical-preview.yml`.
 
 Move to cutover planning only when all validation gates are green and at least
 one full review pass confirms no onboarding regressions.
+
+## Evidence log
+
+- Track each preview run in `docs/plan/zensical-prototype-preview-log.md`.
