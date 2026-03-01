@@ -50,6 +50,7 @@ Use a phased migration path instead of an immediate cutover.
 - Verify top-level nav sections match current site.
 - Verify all README-linked pages are reachable.
 - Verify timeline, onboarding, and template routes work.
+- Track completion with `docs/plan/zensical-prototype-parity-checklist.md`.
 
 ### Phase 3 - Cutover
 
