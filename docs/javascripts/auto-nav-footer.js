@@ -1,5 +1,12 @@
 (() => {
   const map = {
+    "how-to-use-this-site/": {
+      next: { label: "Authors Map", href: "authors/" },
+      related: [
+        { label: "Study Plans", href: "plan/study-plans/" },
+        { label: "Template Library", href: "template-library/" }
+      ]
+    },
     "authors/": {
       next: { label: "Book Guide", href: "../books/" },
       related: [
@@ -33,6 +40,27 @@
       related: [
         { label: "Timeline Gallery", href: "../timeline-gallery/" },
         { label: "Access Alternatives", href: "../access-alternatives/" }
+      ]
+    },
+    "resources/media-watchlists/": {
+      next: { label: "Discussion Prompt Bank", href: "../discussion-prompt-bank/" },
+      related: [
+        { label: "Navigation Map", href: "../navigation-map/" },
+        { label: "Core Book Reviews", href: "../../reviews/core-book-reviews/" }
+      ]
+    },
+    "resources/discussion-prompt-bank/": {
+      next: { label: "Core Book Reviews", href: "../../reviews/core-book-reviews/" },
+      related: [
+        { label: "Logic Drills", href: "../../cheatsheets/logic-drills/" },
+        { label: "Exam Response Template", href: "../../template-library/" }
+      ]
+    },
+    "cheatsheets/logic-drills/": {
+      next: { label: "Argument Analysis", href: "../argument-analysis-cheat-sheet/" },
+      related: [
+        { label: "Discussion Prompt Bank", href: "../../resources/discussion-prompt-bank/" },
+        { label: "Thinker Comparison", href: "../thinker-comparison-sheet/" }
       ]
     }
   };
