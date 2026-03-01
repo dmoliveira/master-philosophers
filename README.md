@@ -36,6 +36,15 @@ By the end, you will have one concrete reading plan and one output.
 4. Use the weekly template in `docs/templates/weekly-study-checklist.md`.
 5. Capture reflections from `docs/reviews/core-book-reviews.md`.
 
+## Study Hub Extensions 🧰
+
+- Learning resources hub: `docs/resources/learning-resources.md`
+- Argument cheat sheet: `docs/cheatsheets/argument-analysis-cheat-sheet.md`
+- Philosopher quick map: `docs/cheatsheets/philosopher-quick-map.md`
+- Enrichment roadmap and pass tracking: `docs/plan/enrichment-roadmap.md`
+
+![Philosophy Timeline](docs/assets/philosophy-timeline.svg)
+
 ## Visual Gallery 🖼️
 
 Quick visual entry points to key thinkers:
@@ -61,7 +70,11 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/authors.md`: all philosophers, key facts, and main intellectual shifts.
 - `docs/books.md`: AU-focused buying list with links, AU prices, and fallback conversion logic.
 - `docs/reviews/core-book-reviews.md`: short reading notes and practical review prompts.
+- `docs/resources/learning-resources.md`: curated reference links, courses, and media.
+- `docs/cheatsheets/argument-analysis-cheat-sheet.md`: fast argument reading method.
+- `docs/cheatsheets/philosopher-quick-map.md`: one-glance map of thinkers and lanes.
 - `docs/plan/study-plans.md`: structured 6-month and 12-month plans.
+- `docs/plan/enrichment-roadmap.md`: multi-pass content expansion tracker.
 - `docs/templates/weekly-study-checklist.md`: reusable weekly execution template.
 - `docs/specs/edition-selection-spec.md`: rules for choosing editions and upgrades.
 - `docs/stats/reading-streak.md`: weekly check-in log and streak badge source.
