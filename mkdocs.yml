@@ -43,6 +43,7 @@ nav:
       - Zensical Status Dashboard: plan/zensical-prototype-status-dashboard.md
       - Zensical Readiness Rubric: plan/zensical-prototype-readiness-rubric.md
       - Zensical Cutover Preflight: plan/zensical-cutover-preflight-checklist.md
+      - Zensical Cutover Runbook: plan/zensical-cutover-runbook-template.md
   - Resources:
       - Learning Resources: resources/learning-resources.md
       - Media Watchlists: resources/media-watchlists.md
