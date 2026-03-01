@@ -40,6 +40,8 @@ Detailed verification template: `docs/plan/zensical-post-cutover-verification-ch
 - [ ] Rollback triggered? yes/no
 - [ ] If rollback: record reason and timestamp.
 
+If rollback is triggered, run: `docs/plan/zensical-rollback-verification-checklist.md`.
+
 ## Incident notes
 
 -
