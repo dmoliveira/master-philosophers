@@ -23,3 +23,4 @@ Use these practical worksheets to structure your study sessions.
 - [Zensical migration postmortem template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-postmortem-template.md)
 - [Zensical migration risk register template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-risk-register-template.md)
 - [Zensical migration dependency checklist](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-dependency-checklist.md)
+- [Zensical migration stakeholder signoff template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-stakeholder-signoff-template.md)

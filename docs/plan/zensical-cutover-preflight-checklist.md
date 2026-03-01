@@ -29,3 +29,5 @@ Use this checklist immediately before opening or merging a migration cutover PR.
 - [ ] Post-merge monitoring plan is documented.
 - [ ] Post-merge verification owner is assigned.
 - [ ] First rollback decision checkpoint time is defined.
+
+Stakeholder signoff template: `docs/templates/zensical-migration-stakeholder-signoff-template.md`.
