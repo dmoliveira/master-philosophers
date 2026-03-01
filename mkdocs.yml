@@ -86,3 +86,4 @@ extra_css:
 
 extra_javascript:
   - javascripts/auto-nav-footer.js
+  - javascripts/support-analytics.js
