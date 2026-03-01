@@ -55,6 +55,7 @@ nav:
       - Access Alternatives: resources/access-alternatives.md
       - Discussion Prompt Bank: resources/discussion-prompt-bank.md
       - Source Freshness Log: resources/source-freshness-log.md
+      - Support the Project: support-the-project.md
   - Cheatsheets:
       - Argument Analysis: cheatsheets/argument-analysis-cheat-sheet.md
       - Logic Drills: cheatsheets/logic-drills.md
@@ -66,6 +67,7 @@ nav:
   - Reviews and Tracking:
       - Core Book Reviews: reviews/core-book-reviews.md
       - Reading Streak: stats/reading-streak.md
+      - Content Quality Audit: plan/content-quality-audit.md
       - Pages Rollout Plan: plan/github-pages-site-map.md
   - Releases:
       - v0.5.0: releases/v0.5.0.md

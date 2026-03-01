@@ -19,6 +19,7 @@ Need a guided orientation first? Open `How to Use This Site`.
 - Better argument skills: `Logic Drills`
 - Media-first learning: `Media Watchlists`
 - Choose your path: `Navigation Map`
+- Support ongoing updates: `Support the Project`
 
 ## What you can browse here
 
@@ -26,3 +27,4 @@ Need a guided orientation first? Open `How to Use This Site`.
 - Curated resources and media tracks
 - Printable cheatsheets and templates
 - Timeline visuals across major periods
+- Contemporary philosopher coverage and modern reading shelf

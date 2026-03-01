@@ -33,3 +33,13 @@ Use this map when you are not sure where to start.
 
 1. `docs/resources/access-alternatives.md`
 2. `docs/resources/source-freshness-log.md`
+
+## If You Want Contemporary Thinkers First
+
+1. `docs/authors.md` (jump to "Contemporary Global Debates")
+2. `docs/books.md` (use "Modern and Contemporary Starter Shelf")
+3. `docs/reviews/core-book-reviews.md` (add short reaction notes)
+
+## If You Want to Fund More Updates
+
+1. `docs/support-the-project.md`
