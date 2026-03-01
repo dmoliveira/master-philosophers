@@ -28,6 +28,8 @@ Use it as a quick guide, then jump into the books for deeper study. 🔍
 - Communism and historical materialism: [Karl Marx](#karl-marx)
 - Genealogical religion/morality critique: [Friedrich Nietzsche](#friedrich-nietzsche)
 - Analytic and logic traditions: [Gottlob Frege](#gottlob-frege), [Bertrand Russell](#bertrand-russell), [Ludwig Wittgenstein](#ludwig-wittgenstein)
+- 20th-century political and existential thought: [Hannah Arendt](#hannah-arendt), [Simone de Beauvoir](#simone-de-beauvoir), [Frantz Fanon](#frantz-fanon)
+- Contemporary justice and power debates: [John Rawls](#john-rawls), [Michel Foucault](#michel-foucault), [Martha Nussbaum](#martha-nussbaum)
 
 ## Classical Foundations 🏺
 
@@ -259,6 +261,56 @@ Use it as a quick guide, then jump into the books for deeper study. 🔍
   Investigations*.
 - Key facts: Thinker with two major methodological phases.
 - What changed: Shifted from logical form to language-in-use.
+
+## Contemporary Global Debates 🌍
+
+### [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt)
+- Life and place: 1906 - 1975; Linden (Germany), later active in the United States.
+- Main influence areas: political theory, totalitarianism analysis, civic responsibility.
+- Orientation/tradition: 20th-century political philosophy.
+- Key works: *The Human Condition*, *The Origins of Totalitarianism*.
+- Key facts: Jewish political thinker displaced by Nazism; major public intellectual.
+- What changed: Reframed politics around plurality, action, and responsibility in public life.
+
+### [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
+- Life and place: 1908 - 1986; Paris (France).
+- Main influence areas: feminist philosophy, existential ethics, social criticism.
+- Orientation/tradition: existentialism and feminist theory.
+- Key works: *The Second Sex*, *The Ethics of Ambiguity*.
+- Key facts: Writer-philosopher central to existential and feminist debates.
+- What changed: Exposed gender as socially produced constraint rather than fixed destiny.
+
+### [Frantz Fanon](https://en.wikipedia.org/wiki/Frantz_Fanon)
+- Life and place: 1925 - 1961; Martinique, later active in Algeria and France.
+- Main influence areas: decolonial theory, race, violence, liberation politics.
+- Orientation/tradition: anti-colonial and postcolonial thought.
+- Key works: *Black Skin, White Masks*, *The Wretched of the Earth*.
+- Key facts: Psychiatrist and revolutionary writer in anti-colonial struggles.
+- What changed: Linked colonial domination to psychological injury and political resistance.
+
+### [John Rawls](https://en.wikipedia.org/wiki/John_Rawls)
+- Life and place: 1921 - 2002; Baltimore (United States).
+- Main influence areas: justice theory, liberal political philosophy, public reason.
+- Orientation/tradition: analytic political philosophy.
+- Key works: *A Theory of Justice*, *Political Liberalism*.
+- Key facts: Revived normative political philosophy in the late 20th century.
+- What changed: Proposed fairness principles using the veil of ignorance thought experiment.
+
+### [Michel Foucault](https://en.wikipedia.org/wiki/Michel_Foucault)
+- Life and place: 1926 - 1984; Poitiers (France).
+- Main influence areas: power analysis, institutions, discourse, social control.
+- Orientation/tradition: post-structural and genealogical critique.
+- Key works: *Discipline and Punish*, *The History of Sexuality*.
+- Key facts: Historian-philosopher focused on knowledge-power relations.
+- What changed: Showed how institutions shape subjects through norms, surveillance, and discipline.
+
+### [Martha Nussbaum](https://en.wikipedia.org/wiki/Martha_Nussbaum)
+- Life and place: 1947 - present; New York (United States).
+- Main influence areas: ethics, political philosophy, capability approach, education.
+- Orientation/tradition: neo-Aristotelian and liberal egalitarian thought.
+- Key works: *Creating Capabilities*, *Upheavals of Thought*.
+- Key facts: Contemporary public philosopher working across ethics, law, and policy.
+- What changed: Made human capability thresholds central for justice and development debates.
 
 ## Next References 🔗
 

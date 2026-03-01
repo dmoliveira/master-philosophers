@@ -149,6 +149,36 @@ This order balances difficulty and gives quick momentum.
 - Difficulty: High.
 - Best for: Advanced discussions on meaning and method.
 
+### Arendt - The Human Condition
+- Why read: Sharp account of labor, work, and action in modern civic life.
+- Difficulty: Medium to high.
+- Best for: Political responsibility, citizenship, and institutional judgment.
+
+### Beauvoir - The Ethics of Ambiguity
+- Why read: Clear existential ethics that connects freedom to responsibility.
+- Difficulty: Medium.
+- Best for: Feminist philosophy entry and existential moral reasoning.
+
+### Fanon - Black Skin, White Masks
+- Why read: Powerful diagnosis of colonial psychology and racial identity.
+- Difficulty: Medium to high.
+- Best for: Postcolonial thought and social critique.
+
+### Rawls - A Theory of Justice
+- Why read: Landmark framework for fairness in social institutions.
+- Difficulty: High.
+- Best for: Normative political theory and policy ethics.
+
+### Foucault - Discipline and Punish
+- Why read: Influential genealogy of punishment, discipline, and surveillance.
+- Difficulty: Medium to high.
+- Best for: Institutional power analysis across law, education, and medicine.
+
+### Nussbaum - Creating Capabilities
+- Why read: Practical justice framework focused on real human opportunities.
+- Difficulty: Medium.
+- Best for: Development ethics, public policy, and applied philosophy.
+
 ## Personal Review Prompt Template ✍️
 
 Use this block under any title:
