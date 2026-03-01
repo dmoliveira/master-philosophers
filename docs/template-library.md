@@ -25,3 +25,4 @@ Use these practical worksheets to structure your study sessions.
 - [Zensical migration dependency checklist](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-dependency-checklist.md)
 - [Zensical migration stakeholder signoff template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-stakeholder-signoff-template.md)
 - [Zensical migration metrics tracking template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-metrics-tracking-template.md)
+- [Zensical migration KPI summary template](https://github.com/dmoliveira/master-philosophers/blob/main/docs/templates/zensical-migration-kpi-summary-template.md)
