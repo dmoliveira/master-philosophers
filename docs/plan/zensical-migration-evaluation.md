@@ -44,6 +44,7 @@ Use a phased migration path instead of an immediate cutover.
 - Create `zensical-prototype` branch.
 - Mirror current nav and core pages.
 - Validate custom footer behavior or provide equivalent native feature.
+- Execute with `docs/plan/zensical-prototype-execution-plan.md`.
 
 ### Phase 2 - Parity gate
 

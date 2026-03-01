@@ -1,0 +1,41 @@
+# Zensical Prototype Execution Plan
+
+Date: 2026-03-01
+
+This plan defines exactly how to run a safe prototype branch for Zensical
+without disrupting the current production docs site.
+
+## Scope
+
+- Prototype only; no production cutover in this task.
+- Keep the current MkDocs Material site as the live path.
+- Validate parity using `docs/plan/zensical-prototype-parity-checklist.md`.
+
+## Branch and workflow setup
+
+1. Create branch: `zensical-prototype`.
+2. Keep all prototype-specific config in that branch only.
+3. Add a separate preview workflow (do not replace current Pages workflow yet).
+4. Publish preview artifact and URL for review.
+
+## Implementation checklist
+
+- [ ] Mirror top-level information architecture from current nav.
+- [ ] Port core pages first: Home, How to Use This Site, Authors, Books,
+      Study Plans, Progression Paths.
+- [ ] Port high-traffic resources and template pages.
+- [ ] Recreate automatic next-step navigation behavior.
+- [ ] Validate timeline/media assets load correctly.
+
+## Validation gates
+
+- [ ] `make docs-check` passes.
+- [ ] Prototype build command passes in CI.
+- [ ] No broken internal links in preview output.
+- [ ] Mobile layout is readable on key pages.
+- [ ] Parity checklist is fully complete.
+
+## Rollout decision gate
+
+Move to cutover planning only when all validation gates are green and at least
+one full review pass confirms no onboarding regressions.
