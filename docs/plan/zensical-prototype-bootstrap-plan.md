@@ -19,6 +19,8 @@ current production docs pipeline stays unchanged.
 4. Upload preview artifact for review comments and parity checks.
 5. Run parity checklist before any cutover discussion.
 
+Workflow scaffold path: `.github/workflows/zensical-preview.yml`.
+
 ## Preview workflow requirements
 
 - Trigger: `push` and `workflow_dispatch` on `zensical-prototype`.

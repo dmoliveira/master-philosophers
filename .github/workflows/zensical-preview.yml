@@ -1,0 +1,35 @@
+name: Zensical Prototype Preview
+
+on:
+  push:
+    branches:
+      - zensical-prototype
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  preview-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install docs dependencies
+        run: python -m pip install --upgrade pip "mkdocs<2" mkdocs-material
+
+      - name: Build prototype docs
+        run: mkdocs build --strict
+
+      - name: Upload prototype artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: zensical-prototype-preview
+          path: site
+          retention-days: 7
