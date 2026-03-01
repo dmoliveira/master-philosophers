@@ -69,3 +69,4 @@ Readiness scoreboard template: `docs/templates/zensical-migration-readiness-scor
 Readiness summary deck template: `docs/templates/zensical-migration-readiness-summary-deck-template.md`.
 Readiness FAQ template: `docs/templates/zensical-migration-readiness-faq-template.md`.
 Evidence bundle template: `docs/templates/zensical-migration-evidence-bundle-template.md`.
+Acceptance criteria template: `docs/templates/zensical-migration-acceptance-criteria-template.md`.

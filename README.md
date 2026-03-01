@@ -146,6 +146,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/templates/zensical-migration-readiness-summary-deck-template.md`: slide-style summary template for stakeholder readiness reviews.
 - `docs/templates/zensical-migration-readiness-faq-template.md`: FAQ template for recurring migration-readiness questions.
 - `docs/templates/zensical-migration-evidence-bundle-template.md`: consolidated evidence package template for migration decision gates.
+- `docs/templates/zensical-migration-acceptance-criteria-template.md`: objective acceptance checklist for migration completion decisions.
 - `docs/templates/zensical-prototype-review-report.md`: template for recording each prototype review pass.
 - `docs/templates/zensical-prototype-handoff-checklist.md`: checklist for safe prototype handoff and next-step readiness.
 - `docs/templates/zensical-migration-readiness-decision-log.md`: formal decision gate log for migration readiness.
