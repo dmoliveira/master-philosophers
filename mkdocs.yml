@@ -44,6 +44,7 @@ nav:
       - Zensical Readiness Rubric: plan/zensical-prototype-readiness-rubric.md
       - Zensical Cutover Preflight: plan/zensical-cutover-preflight-checklist.md
       - Zensical Cutover Runbook: plan/zensical-cutover-runbook-template.md
+      - Zensical Post-Cutover Verification: plan/zensical-post-cutover-verification-checklist.md
   - Resources:
       - Learning Resources: resources/learning-resources.md
       - Media Watchlists: resources/media-watchlists.md

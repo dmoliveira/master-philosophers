@@ -125,6 +125,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/plan/zensical-prototype-readiness-rubric.md`: weighted readiness scoring for migration decision gates.
 - `docs/plan/zensical-cutover-preflight-checklist.md`: final go/no-go checklist before migration cutover.
 - `docs/plan/zensical-cutover-runbook-template.md`: runbook template for live cutover execution and rollback decisions.
+- `docs/plan/zensical-post-cutover-verification-checklist.md`: production verification checklist for immediately after cutover.
 - `docs/templates/zensical-prototype-review-report.md`: template for recording each prototype review pass.
 - `docs/templates/zensical-prototype-handoff-checklist.md`: checklist for safe prototype handoff and next-step readiness.
 - `docs/templates/zensical-migration-readiness-decision-log.md`: formal decision gate log for migration readiness.
