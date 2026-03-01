@@ -66,3 +66,4 @@ Checkpoint report template: `docs/templates/zensical-migration-checkpoint-report
 Ownership matrix template: `docs/templates/zensical-migration-ownership-matrix-template.md`.
 Decision timeline template: `docs/templates/zensical-migration-decision-timeline-template.md`.
 Readiness scoreboard template: `docs/templates/zensical-migration-readiness-scoreboard-template.md`.
+Readiness summary deck template: `docs/templates/zensical-migration-readiness-summary-deck-template.md`.

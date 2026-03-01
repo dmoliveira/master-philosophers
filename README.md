@@ -143,6 +143,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/templates/zensical-migration-ownership-matrix-template.md`: RACI-style ownership matrix for migration workstreams.
 - `docs/templates/zensical-migration-decision-timeline-template.md`: chronological decision log template for migration checkpoints.
 - `docs/templates/zensical-migration-readiness-scoreboard-template.md`: red/amber/green scoreboard for migration readiness reporting.
+- `docs/templates/zensical-migration-readiness-summary-deck-template.md`: slide-style summary template for stakeholder readiness reviews.
 - `docs/templates/zensical-prototype-review-report.md`: template for recording each prototype review pass.
 - `docs/templates/zensical-prototype-handoff-checklist.md`: checklist for safe prototype handoff and next-step readiness.
 - `docs/templates/zensical-migration-readiness-decision-log.md`: formal decision gate log for migration readiness.
