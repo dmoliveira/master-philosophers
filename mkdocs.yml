@@ -1,0 +1,60 @@
+site_name: Master Philosophers
+site_description: A practical philosophy learning hub with guided study paths.
+site_url: https://dmoliveira.github.io/master-philosophers/
+repo_url: https://github.com/dmoliveira/master-philosophers
+repo_name: dmoliveira/master-philosophers
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+
+exclude_docs: |
+  .*
+
+nav:
+  - Home: index.md
+  - Start Here:
+      - Authors Map: authors.md
+      - Book Guide: books.md
+      - Week Zero Kickoff: plan/week-zero-kickoff.md
+  - Study Paths:
+      - Study Plans: plan/study-plans.md
+      - Progression Paths: plan/progression-paths.md
+      - Navigation Map: resources/navigation-map.md
+  - Resources:
+      - Learning Resources: resources/learning-resources.md
+      - Media Watchlists: resources/media-watchlists.md
+      - Access Alternatives: resources/access-alternatives.md
+      - Discussion Prompt Bank: resources/discussion-prompt-bank.md
+      - Source Freshness Log: resources/source-freshness-log.md
+  - Cheatsheets:
+      - Argument Analysis: cheatsheets/argument-analysis-cheat-sheet.md
+      - Logic Drills: cheatsheets/logic-drills.md
+      - One-Page Study Sheet: cheatsheets/one-page-study-sheet.md
+      - Thinker Comparison: cheatsheets/thinker-comparison-sheet.md
+      - Philosopher Quick Map: cheatsheets/philosopher-quick-map.md
+  - Templates:
+      - Template Library: template-library.md
+  - Reviews and Tracking:
+      - Core Book Reviews: reviews/core-book-reviews.md
+      - Reading Streak: stats/reading-streak.md
+      - Pages Rollout Plan: plan/github-pages-site-map.md
+  - Timeline:
+      - Timeline Gallery: resources/timeline-gallery.md
+  - Contributing:
+      - Contributing Guide: contributing.md
+      - Edition Selection Spec: specs/edition-selection-spec.md
+      - Enrichment Roadmap: plan/enrichment-roadmap.md
+
+docs_dir: docs

@@ -3,6 +3,11 @@
 This repo is already a strong docs hub. A GitHub Pages site can make it easier
 to browse, search, and share.
 
+## Status
+
+- Implemented in repo: `mkdocs.yml`, `docs/index.md`, `docs/contributing.md`, and `.github/workflows/pages.yml`.
+- Pending: enable Pages in repository settings and add live site badge in `README.md`.
+
 ## Why enable GitHub Pages
 
 - One clean public URL for all study content.
