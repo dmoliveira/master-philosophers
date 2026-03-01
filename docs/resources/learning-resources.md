@@ -2,6 +2,13 @@
 
 Use this page as the "where do I go next?" map for trusted study material.
 
+## If You Want a Fast Start
+
+- One reference: SEP or IEP.
+- One course: Open Yale or MIT OCW.
+- One weekly media item: BBC In Our Time or Wireless Philosophy.
+- One written output: add notes in `docs/reviews/core-book-reviews.md`.
+
 ## Quick Use Guide
 
 1. Start with `Foundational Reference` for accurate definitions.
@@ -50,3 +57,8 @@ Use this page as the "where do I go next?" map for trusted study material.
 - When using YouTube, favor channels with clear citations and lecturer identity.
 - For claims that are disputed, cross-check SEP/IEP before adding notes.
 - Add links that are stable and likely to remain available.
+
+## Maintenance Reminder
+
+- Recheck links quarterly.
+- Replace dead links with equivalent quality sources and log the update in PR notes.

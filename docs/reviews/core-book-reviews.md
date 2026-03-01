@@ -9,6 +9,14 @@ clear expectations.
 - Use the "Best for" signal to choose your first edition.
 - Add your own notes under each entry as you finish a text.
 
+## Suggested Starter Sequence
+
+- Week 1-2: Plato *Republic*
+- Week 3-4: Aristotle *Nicomachean Ethics*
+- Week 5-6: Epictetus *Enchiridion* or Marcus Aurelius *Meditations*
+
+This order balances difficulty and gives quick momentum.
+
 ## Reviews 📚
 
 ### Plato - Republic

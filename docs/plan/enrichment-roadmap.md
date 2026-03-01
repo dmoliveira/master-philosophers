@@ -20,7 +20,7 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - [x] Pass 7: add exam/discussion prompt bank
 - [x] Pass 8: add printable one-page study sheet versions
 - [x] Pass 9: add timeline visuals for all major periods
-- [ ] Pass 10: run clarity sweep for all docs
+- [x] Pass 10: run clarity sweep for all docs
 - [ ] Pass 11: run source freshness sweep for external links
 - [ ] Pass 12: final usability and polish pass
 
@@ -73,6 +73,12 @@ This roadmap tracks the content expansion work for broad, reusable study value.
 - Added five period-specific timeline visuals in `docs/assets/timelines/`.
 - Added `docs/resources/timeline-gallery.md` to centralize visual navigation.
 - Fixed broken README portrait URLs using stable Wikipedia summary thumbnails.
+
+### Pass 10
+
+- Added clearer quick-choice cues in `docs/plan/study-plans.md`.
+- Added fast-start and maintenance guidance in `docs/resources/learning-resources.md`.
+- Added a starter reading sequence in `docs/reviews/core-book-reviews.md`.
 
 ## Future Backlog
 

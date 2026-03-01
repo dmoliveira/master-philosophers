@@ -3,6 +3,12 @@
 This page keeps your reading practical and steady.
 Pair it with `docs/books.md` and `docs/templates/weekly-study-checklist.md`.
 
+## Choose Your Track in 30 Seconds
+
+- Pick `6-Month Intensive` if you can commit 8-10 hours per week.
+- Pick `12-Month Deep` if you prefer 5-7 hours per week and slower depth.
+- If unsure, start with 12-month for 4 weeks, then re-evaluate.
+
 ## 6-Month Intensive Track ⚡
 
 Target pace: 8-10 hours/week.
@@ -64,3 +70,9 @@ Target pace: 5-7 hours/week.
 - 1 monthly comparison note.
 - 1 quarterly synthesis (3-5 pages).
 - 1 final capstone essay.
+
+## If You Fall Behind
+
+- Do not restart from zero.
+- Keep one thinker active and reduce weekly page targets.
+- Resume full pace after two consistent weeks.
