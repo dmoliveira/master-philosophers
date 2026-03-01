@@ -19,6 +19,7 @@ without disrupting the current production docs site.
 4. Publish preview artifact and URL for review.
 
 Detailed bootstrap sequence: `docs/plan/zensical-prototype-bootstrap-plan.md`.
+Preview workflow scaffold: `.github/workflows/zensical-preview.yml`.
 
 ## Implementation checklist
 
