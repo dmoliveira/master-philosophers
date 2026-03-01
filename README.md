@@ -45,6 +45,7 @@ If you want a full beginner launch path, use `docs/plan/week-zero-kickoff.md`.
 - Regional/language access alternatives: `docs/resources/access-alternatives.md`
 - Discussion prompt bank: `docs/resources/discussion-prompt-bank.md`
 - Timeline gallery: `docs/resources/timeline-gallery.md`
+- Source freshness log: `docs/resources/source-freshness-log.md`
 - Argument cheat sheet: `docs/cheatsheets/argument-analysis-cheat-sheet.md`
 - Logic drills: `docs/cheatsheets/logic-drills.md`
 - One-page study sheet: `docs/cheatsheets/one-page-study-sheet.md`
@@ -85,6 +86,7 @@ Want the full map? Go to `docs/authors.md`.
 - `docs/resources/access-alternatives.md`: region/language and low-bandwidth fallback guidance.
 - `docs/resources/discussion-prompt-bank.md`: leveled prompts for solo/group assessment.
 - `docs/resources/timeline-gallery.md`: period-by-period visual timeline pack.
+- `docs/resources/source-freshness-log.md`: external-link reliability checks and cadence.
 - `docs/cheatsheets/argument-analysis-cheat-sheet.md`: fast argument reading method.
 - `docs/cheatsheets/logic-drills.md`: short reasoning drills for weekly practice.
 - `docs/cheatsheets/one-page-study-sheet.md`: printable single-page study worksheet.

@@ -62,3 +62,4 @@ Use this page as the "where do I go next?" map for trusted study material.
 
 - Recheck links quarterly.
 - Replace dead links with equivalent quality sources and log the update in PR notes.
+- Latest verification log: `docs/resources/source-freshness-log.md`.
